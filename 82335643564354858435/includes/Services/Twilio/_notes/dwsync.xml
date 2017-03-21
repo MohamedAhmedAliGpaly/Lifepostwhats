@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AccessToken.php" server="textmarketingpros.com/public_html/" local="130962174360734596" remote="130961889000000000" Dst="0" />
+<file name="Capability.php" server="textmarketingpros.com/public_html/" local="130962174361454637" remote="130961889000000000" Dst="0" />
+<file name="AutoPagingIterator.php" server="textmarketingpros.com/public_html/" local="130962174361334630" remote="130961889000000000" Dst="0" />
+<file name="HttpException.php" server="textmarketingpros.com/public_html/" local="130962174361964666" remote="130961889000000000" Dst="0" />
+<file name="CapabilityTaskRouter.php" server="textmarketingpros.com/public_html/" local="130962174361854660" remote="130961889000000000" Dst="0" />
+<file name="InstanceResource.php" server="textmarketingpros.com/public_html/" local="130962174362154677" remote="130961889000000000" Dst="0" />
+<file name="HttpStream.php" server="textmarketingpros.com/public_html/" local="130962174362074672" remote="130961889000000000" Dst="0" />
+<file name="CapabilityAPI.php" server="textmarketingpros.com/public_html/" local="130962174361554643" remote="130961889000000000" Dst="0" />
+<file name="IPMessagingInstanceResource.php" server="textmarketingpros.com/public_html/" local="130962174362614703" remote="130961889000000000" Dst="0" />
+<file name="IPMessagingListResource.php" server="textmarketingpros.com/public_html/" local="130962174362714709" remote="130961889000000000" Dst="0" />
+<file name="JWT.php" server="textmarketingpros.com/public_html/" local="130962174362814715" remote="130961889000000000" Dst="0" />
+<file name="ListResource.php" server="textmarketingpros.com/public_html/" local="130962174362904720" remote="130961889000000000" Dst="0" />
+<file name="LookupsInstanceResource.php" server="textmarketingpros.com/public_html/" local="130962174363004725" remote="130961889000000000" Dst="0" />
+<file name="LookupsListResource.php" server="textmarketingpros.com/public_html/" local="130962174363164735" remote="130961889000000000" Dst="0" />
+<file name="MonitorInstanceResource.php" server="textmarketingpros.com/public_html/" local="130962174363274741" remote="130961889000000000" Dst="0" />
+<file name="MonitorListResource.php" server="textmarketingpros.com/public_html/" local="130962174363384747" remote="130961889000000000" Dst="0" />
+<file name="NextGenInstanceResource.php" server="textmarketingpros.com/public_html/" local="130962174363524755" remote="130961889600000000" Dst="0" />
+<file name="NextGenListResource.php" server="textmarketingpros.com/public_html/" local="130962174364064786" remote="130961889600000000" Dst="0" />
+<file name="NumberType.php" server="textmarketingpros.com/public_html/" local="130962174364154791" remote="130961889600000000" Dst="0" />
+<file name="Page.php" server="textmarketingpros.com/public_html/" local="130962174364244796" remote="130961889600000000" Dst="0" />
+<file name="PartialApplicationHelper.php" server="textmarketingpros.com/public_html/" local="130962174364334802" remote="130961889600000000" Dst="0" />
+<file name="PricingInstanceResource.php" server="textmarketingpros.com/public_html/" local="130962174364714823" remote="130961889600000000" Dst="0" />
+<file name="PricingListResource.php" server="textmarketingpros.com/public_html/" local="130962174364804828" remote="130961889600000000" Dst="0" />
+<file name="RequestValidator.php" server="textmarketingpros.com/public_html/" local="130962174364874832" remote="130961889600000000" Dst="0" />
+<file name="Resource.php" server="textmarketingpros.com/public_html/" local="130962174365184850" remote="130961889600000000" Dst="0" />
+<file name="RestException.php" server="textmarketingpros.com/public_html/" local="130962174456960099" remote="130961890800000000" Dst="0" />
+<file name="SIPListResource.php" server="textmarketingpros.com/public_html/" local="130962174457840150" remote="130961890800000000" Dst="0" />
+<file name="TaskRouterInstanceResource.php" server="textmarketingpros.com/public_html/" local="130962174458530189" remote="130961890800000000" Dst="0" />
+<file name="TaskRouterListResource.php" server="textmarketingpros.com/public_html/" local="130962174459050219" remote="130961890800000000" Dst="0" />
+<file name="TimeRangeResource.php" server="textmarketingpros.com/public_html/" local="130962174459840264" remote="130961890800000000" Dst="0" />
+<file name="TinyHttp.php" server="textmarketingpros.com/public_html/" local="130962174460360294" remote="130961890800000000" Dst="0" />
+<file name="TrunkingInstanceResource.php" server="textmarketingpros.com/public_html/" local="130962174461220343" remote="130961890800000000" Dst="0" />
+<file name="TrunkingListResource.php" server="textmarketingpros.com/public_html/" local="130962174462200399" remote="130961890800000000" Dst="0" />
+<file name="Twiml.php" server="textmarketingpros.com/public_html/" local="130962174462830435" remote="130961890800000000" Dst="0" />
+<file name="UsageResource.php" server="textmarketingpros.com/public_html/" local="130962174463350465" remote="130961890800000000" Dst="0" />
+<file name="WorkflowConfiguration.php" server="textmarketingpros.com/public_html/" local="130962174464500531" remote="130961890800000000" Dst="0" />
+</dwsync>
